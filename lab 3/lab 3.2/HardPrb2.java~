@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class HardPrb2{
+  public static  void main(String[]args){
+    Scanner sc=new Scanner(System.in);
+    String a=sc.nextLine();
+    String b=sc.nextLine();
+    int prod1=1;
+    int prod2=1;
+    for(int i=0;i<a.length();i++){
+      prod1=prod1*((int)a.charAt(i)-64);
+    }
+    for(int j=0;j<b.length();j++){
+      prod2=prod2*((int)b.charAt(j)-64);
+    }
+    if(prod1%14<prod2%14){
+      System.out.println("I Am Happy With My Coach");
+    }
+    else{
+      System.out.println("I Am Sad With My Coach");
+    }
+  }
+}
+    

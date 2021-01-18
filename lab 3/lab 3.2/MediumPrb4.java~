@@ -1,0 +1,33 @@
+import java.util.Scanner;
+public class MediumPrb4
+{
+  public static void main(String args[]) 
+  {
+    Scanner sc=new Scanner(System.in);
+    String z = sc.nextLine(); //user input
+    
+    String k = "";
+    
+    int i;
+    int m=0;
+    for(i =1 ; i < z.length() ; i++ ){
+      
+      if(z.charAt(i) != z.charAt(i-1)) {
+        
+        k = k+ z.charAt(i-1);
+        
+      }
+      m=i;
+    }
+    
+    if(z.charAt(i-2) != z.charAt(i-1) || k.equals("")){
+      
+      k+= z.charAt(i-1) ;
+      
+    }
+    if((int)z.charAt(m)!=(int)k.charAt(k.length()-1)){
+    k=k+z.charAt(m);
+    }
+    System.out.println(k);
+  }
+}

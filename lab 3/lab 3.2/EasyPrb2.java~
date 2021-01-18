@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class EasyPrb2
+{
+  public static void main(String[]args)
+  {
+    Scanner sc=new Scanner(System.in);
+    Strings srt=sc.nextLine();
+    for(int a=0;a<srt.length();a++)
+    {
+      int b=sc.charAt(a) +1;
+      System.out.print(b);
+    }
+    sc.close();
+  }
+}

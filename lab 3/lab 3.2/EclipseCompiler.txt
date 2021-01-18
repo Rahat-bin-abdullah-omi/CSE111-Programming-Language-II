@@ -1,0 +1,509 @@
+29 May 2018 16:55:58 GMT: Log 'EclipseCompiler.txt' opened: 29 May 2018 16:55:58 GMT with name D:\CSE111\Labs solution\lab 3\lab 3.2\EclipseCompiler.txt
+29 May 2018 20:17:38 GMT: Log 'EclipseCompiler.txt' opened: 29 May 2018 20:17:38 GMT with name D:\CSE111\Labs solution\lab 3\lab 3.2\EclipseCompiler.txt
+29 May 2018 20:53:45 GMT: Log 'EclipseCompiler.txt' opened: 29 May 2018 20:53:45 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+29 May 2018 20:53:45 GMT: Log 'EclipseCompiler.txt' opened: 29 May 2018 20:53:45 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+29 May 2018 20:53:48 GMT: Log 'EclipseCompiler.txt' opened: 29 May 2018 20:53:48 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+29 May 2018 20:59:47 GMT: diagnostics = javax.tools.DiagnosticCollector@6d5543ae
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2fe11849
+fileObjects = [C:\Users\user\Desktop\lab 3.2\EasyPrb1.java, C:\Users\user\Desktop\lab 3.2\EasyPrb2.java, C:\Users\user\Desktop\lab 3.2\EasyPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java]
+29 May 2018 20:59:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@43ac10eb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 20:59:47 GMT: Compiler call returned
+29 May 2018 20:59:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@88dc7d8
+29 May 2018 20:59:47 GMT:  Kind = WARNING
+29 May 2018 20:59:47 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb1.java LineNo = 6 ColNo = 14 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 21:02:43 GMT: diagnostics = javax.tools.DiagnosticCollector@3f8d3308
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3b5f5a1a
+fileObjects = [C:\Users\user\Desktop\lab 3.2\EasyPrb1.java, C:\Users\user\Desktop\lab 3.2\EasyPrb2.java, C:\Users\user\Desktop\lab 3.2\EasyPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2 atik\medium2.java, C:\Users\user\Desktop\lab 3.2 atik\medium3.java, C:\Users\user\Desktop\lab 3.2 atik\medium4.java, C:\Users\user\Desktop\lab 3.2\MediumPrb2.java]
+29 May 2018 21:02:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@63142c0f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 21:02:43 GMT: Compiler call returned
+29 May 2018 21:02:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@586a8f22
+29 May 2018 21:02:43 GMT:  Kind = WARNING
+29 May 2018 21:02:43 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb1.java LineNo = 6 ColNo = 14 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 21:02:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@121c8342
+29 May 2018 21:02:43 GMT:  Kind = WARNING
+29 May 2018 21:02:43 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\medium2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 21:02:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3dd8714e
+29 May 2018 21:02:43 GMT:  Kind = WARNING
+29 May 2018 21:02:43 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\medium3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 21:02:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64e9cf6
+29 May 2018 21:02:43 GMT:  Kind = WARNING
+29 May 2018 21:02:43 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\medium4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 21:02:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ad11082
+29 May 2018 21:02:43 GMT:  Kind = WARNING
+29 May 2018 21:02:43 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 21:03:56 GMT: Log 'EclipseCompiler.txt' opened: 29 May 2018 21:03:56 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+29 May 2018 21:58:31 GMT: diagnostics = javax.tools.DiagnosticCollector@4b52899f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b9c2a21
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb2.java]
+29 May 2018 21:58:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@176fe7a3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 21:58:32 GMT: Compiler call returned
+29 May 2018 21:58:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69c15cde
+29 May 2018 21:58:32 GMT:  Kind = WARNING
+29 May 2018 21:58:32 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb1.java LineNo = 6 ColNo = 14 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 21:58:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b8000ac
+29 May 2018 21:58:32 GMT:  Kind = WARNING
+29 May 2018 21:58:32 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb2.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 21:58:43 GMT: diagnostics = javax.tools.DiagnosticCollector@788ff8c4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@72f547d0
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb2.java]
+29 May 2018 21:58:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6f643cd8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 21:58:43 GMT: Compiler call returned
+29 May 2018 21:58:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64d44e43
+29 May 2018 21:58:43 GMT:  Kind = WARNING
+29 May 2018 21:58:43 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb1.java LineNo = 6 ColNo = 14 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 21:58:58 GMT: diagnostics = javax.tools.DiagnosticCollector@4c0399e8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5bdce776
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java]
+29 May 2018 21:58:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6eb35f8f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 21:58:58 GMT: Compiler call returned
+29 May 2018 22:16:29 GMT: diagnostics = javax.tools.DiagnosticCollector@8be6c3b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@46a23c06
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java]
+29 May 2018 22:16:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4a5cf317' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 22:16:30 GMT: Compiler call returned
+29 May 2018 22:16:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11822f62
+29 May 2018 22:16:30 GMT:  Kind = WARNING
+29 May 2018 22:16:30 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb3.java LineNo = 6 ColNo = 14 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 22:16:40 GMT: diagnostics = javax.tools.DiagnosticCollector@37a755b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11d9627d
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java]
+29 May 2018 22:16:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@64073c20' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 22:16:40 GMT: Compiler call returned
+29 May 2018 22:46:12 GMT: diagnostics = javax.tools.DiagnosticCollector@1b82a628
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@33a331be
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2 atik\medium4.java]
+29 May 2018 22:46:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@375db456' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 22:46:12 GMT: Compiler call returned
+29 May 2018 22:46:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2959cc47
+29 May 2018 22:46:12 GMT:  Kind = WARNING
+29 May 2018 22:46:12 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\medium4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:22:03 GMT: diagnostics = javax.tools.DiagnosticCollector@44ca69ea
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2c7a4b3d
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java]
+29 May 2018 23:22:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@28978ce2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:22:03 GMT: Compiler call returned
+29 May 2018 23:22:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77c53802
+29 May 2018 23:22:03 GMT:  Kind = WARNING
+29 May 2018 23:22:03 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:24:31 GMT: diagnostics = javax.tools.DiagnosticCollector@33b99b4c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3f8b60ed
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java]
+29 May 2018 23:24:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@53dcfb7e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:24:31 GMT: Compiler call returned
+29 May 2018 23:24:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@388635ed
+29 May 2018 23:24:31 GMT:  Kind = WARNING
+29 May 2018 23:24:31 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:24:49 GMT: diagnostics = javax.tools.DiagnosticCollector@b41f365
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@42192e96
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java]
+29 May 2018 23:24:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5b72bc5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:24:49 GMT: Compiler call returned
+29 May 2018 23:24:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b84e3a7
+29 May 2018 23:24:49 GMT:  Kind = WARNING
+29 May 2018 23:24:49 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:26:15 GMT: diagnostics = javax.tools.DiagnosticCollector@5510dad8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@49323fbc
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java]
+29 May 2018 23:26:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5aa06bd4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:26:15 GMT: Compiler call returned
+29 May 2018 23:26:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26b4b797
+29 May 2018 23:26:15 GMT:  Kind = WARNING
+29 May 2018 23:26:15 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:26:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f462987
+29 May 2018 23:26:15 GMT:  Kind = WARNING
+29 May 2018 23:26:15 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:26:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6334454d
+29 May 2018 23:26:15 GMT:  Kind = WARNING
+29 May 2018 23:26:15 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:26:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31a0404d
+29 May 2018 23:26:15 GMT:  Kind = WARNING
+29 May 2018 23:26:15 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:26:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@322b51e1
+29 May 2018 23:26:15 GMT:  Kind = WARNING
+29 May 2018 23:26:15 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:07 GMT: diagnostics = javax.tools.DiagnosticCollector@404974b2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3d721294
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java]
+29 May 2018 23:27:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@23dfc7f5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:27:07 GMT: Compiler call returned
+29 May 2018 23:27:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1944e8ce
+29 May 2018 23:27:07 GMT:  Kind = WARNING
+29 May 2018 23:27:07 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fa014f8
+29 May 2018 23:27:07 GMT:  Kind = WARNING
+29 May 2018 23:27:07 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a734d9b
+29 May 2018 23:27:07 GMT:  Kind = WARNING
+29 May 2018 23:27:07 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4720ca25
+29 May 2018 23:27:07 GMT:  Kind = WARNING
+29 May 2018 23:27:07 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@799c4897
+29 May 2018 23:27:07 GMT:  Kind = WARNING
+29 May 2018 23:27:07 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76149488
+29 May 2018 23:27:07 GMT:  Kind = WARNING
+29 May 2018 23:27:07 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:41 GMT: diagnostics = javax.tools.DiagnosticCollector@2fb7c45f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@590f0c4
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java]
+29 May 2018 23:27:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5cbba9f2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:27:41 GMT: Compiler call returned
+29 May 2018 23:27:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5068697d
+29 May 2018 23:27:41 GMT:  Kind = WARNING
+29 May 2018 23:27:41 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58d0a616
+29 May 2018 23:27:41 GMT:  Kind = WARNING
+29 May 2018 23:27:41 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@276c4d2
+29 May 2018 23:27:41 GMT:  Kind = WARNING
+29 May 2018 23:27:41 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7530c5da
+29 May 2018 23:27:41 GMT:  Kind = WARNING
+29 May 2018 23:27:41 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@66806980
+29 May 2018 23:27:41 GMT:  Kind = WARNING
+29 May 2018 23:27:41 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:27:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b3d8350
+29 May 2018 23:27:41 GMT:  Kind = WARNING
+29 May 2018 23:27:41 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:28:42 GMT: diagnostics = javax.tools.DiagnosticCollector@1284d48d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7f00cc66
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java]
+29 May 2018 23:28:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f92fdc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:28:42 GMT: Compiler call returned
+29 May 2018 23:28:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@671d4ee5
+29 May 2018 23:28:42 GMT:  Kind = WARNING
+29 May 2018 23:28:42 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:28:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c66bbee
+29 May 2018 23:28:42 GMT:  Kind = WARNING
+29 May 2018 23:28:42 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:28:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@161fa929
+29 May 2018 23:28:42 GMT:  Kind = WARNING
+29 May 2018 23:28:42 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:28:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a707b9c
+29 May 2018 23:28:42 GMT:  Kind = WARNING
+29 May 2018 23:28:42 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:28:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@37177051
+29 May 2018 23:28:42 GMT:  Kind = WARNING
+29 May 2018 23:28:42 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:28:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ee70496
+29 May 2018 23:28:42 GMT:  Kind = WARNING
+29 May 2018 23:28:42 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:28:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@155abc82
+29 May 2018 23:28:42 GMT:  Kind = WARNING
+29 May 2018 23:28:42 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:29:16 GMT: diagnostics = javax.tools.DiagnosticCollector@5501ff51
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4d9e3e4b
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java]
+29 May 2018 23:29:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@60d2d7b6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:29:16 GMT: Compiler call returned
+29 May 2018 23:29:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@161d449b
+29 May 2018 23:29:16 GMT:  Kind = WARNING
+29 May 2018 23:29:16 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:29:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@35f7ce6e
+29 May 2018 23:29:16 GMT:  Kind = WARNING
+29 May 2018 23:29:16 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:29:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ba0b6a
+29 May 2018 23:29:16 GMT:  Kind = WARNING
+29 May 2018 23:29:16 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:29:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5332c389
+29 May 2018 23:29:16 GMT:  Kind = WARNING
+29 May 2018 23:29:16 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:29:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ff77ce8
+29 May 2018 23:29:16 GMT:  Kind = WARNING
+29 May 2018 23:29:16 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:29:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24f843c6
+29 May 2018 23:29:16 GMT:  Kind = WARNING
+29 May 2018 23:29:16 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:29:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74c9ed68
+29 May 2018 23:29:16 GMT:  Kind = WARNING
+29 May 2018 23:29:16 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:32 GMT: diagnostics = javax.tools.DiagnosticCollector@57ff86f5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@73cca53e
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java, C:\Users\user\Desktop\lab 3.2\HardPrb3.java]
+29 May 2018 23:31:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7be74db' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:31:32 GMT: Compiler call returned
+29 May 2018 23:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@26fb8470
+29 May 2018 23:31:32 GMT:  Kind = WARNING
+29 May 2018 23:31:32 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@664e7dc9
+29 May 2018 23:31:32 GMT:  Kind = WARNING
+29 May 2018 23:31:32 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cb2d98b
+29 May 2018 23:31:32 GMT:  Kind = WARNING
+29 May 2018 23:31:32 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77ac3220
+29 May 2018 23:31:32 GMT:  Kind = WARNING
+29 May 2018 23:31:32 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d8ee0a1
+29 May 2018 23:31:32 GMT:  Kind = WARNING
+29 May 2018 23:31:32 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18bb64ec
+29 May 2018 23:31:32 GMT:  Kind = WARNING
+29 May 2018 23:31:32 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12cf98f1
+29 May 2018 23:31:32 GMT:  Kind = WARNING
+29 May 2018 23:31:32 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e495ba
+29 May 2018 23:31:32 GMT:  Kind = WARNING
+29 May 2018 23:31:32 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:40 GMT: diagnostics = javax.tools.DiagnosticCollector@4a404cf7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@243b67ad
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java, C:\Users\user\Desktop\lab 3.2\HardPrb3.java]
+29 May 2018 23:31:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ce791b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:31:40 GMT: Compiler call returned
+29 May 2018 23:31:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f4cdcb
+29 May 2018 23:31:40 GMT:  Kind = WARNING
+29 May 2018 23:31:40 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@651aeb6b
+29 May 2018 23:31:40 GMT:  Kind = WARNING
+29 May 2018 23:31:40 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f84a001
+29 May 2018 23:31:40 GMT:  Kind = WARNING
+29 May 2018 23:31:40 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@45bb2482
+29 May 2018 23:31:40 GMT:  Kind = WARNING
+29 May 2018 23:31:40 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6501336b
+29 May 2018 23:31:40 GMT:  Kind = WARNING
+29 May 2018 23:31:40 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57f2dd13
+29 May 2018 23:31:40 GMT:  Kind = WARNING
+29 May 2018 23:31:40 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dbcfb44
+29 May 2018 23:31:40 GMT:  Kind = WARNING
+29 May 2018 23:31:40 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:31:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13f4345
+29 May 2018 23:31:40 GMT:  Kind = WARNING
+29 May 2018 23:31:40 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:02 GMT: diagnostics = javax.tools.DiagnosticCollector@5ad4a483
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@425e9d42
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java, C:\Users\user\Desktop\lab 3.2\HardPrb3.java]
+29 May 2018 23:32:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@44defc3b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:32:02 GMT: Compiler call returned
+29 May 2018 23:32:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c4142e
+29 May 2018 23:32:02 GMT:  Kind = WARNING
+29 May 2018 23:32:02 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d7a5cf6
+29 May 2018 23:32:02 GMT:  Kind = WARNING
+29 May 2018 23:32:02 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@261054b6
+29 May 2018 23:32:02 GMT:  Kind = WARNING
+29 May 2018 23:32:02 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12679863
+29 May 2018 23:32:02 GMT:  Kind = WARNING
+29 May 2018 23:32:02 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@34248b65
+29 May 2018 23:32:02 GMT:  Kind = WARNING
+29 May 2018 23:32:02 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3bb6ecfb
+29 May 2018 23:32:02 GMT:  Kind = WARNING
+29 May 2018 23:32:02 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fa7aadf
+29 May 2018 23:32:02 GMT:  Kind = WARNING
+29 May 2018 23:32:02 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31ad8dc8
+29 May 2018 23:32:02 GMT:  Kind = WARNING
+29 May 2018 23:32:02 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:35 GMT: diagnostics = javax.tools.DiagnosticCollector@5cbafdf1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6ac88903
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java, C:\Users\user\Desktop\lab 3.2\HardPrb3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java]
+29 May 2018 23:32:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5b541d45' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:32:35 GMT: Compiler call returned
+29 May 2018 23:32:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@776d87
+29 May 2018 23:32:35 GMT:  Kind = WARNING
+29 May 2018 23:32:35 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4666237a
+29 May 2018 23:32:35 GMT:  Kind = WARNING
+29 May 2018 23:32:35 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10d0df7a
+29 May 2018 23:32:35 GMT:  Kind = WARNING
+29 May 2018 23:32:35 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4988ae9b
+29 May 2018 23:32:35 GMT:  Kind = WARNING
+29 May 2018 23:32:35 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7228f978
+29 May 2018 23:32:35 GMT:  Kind = WARNING
+29 May 2018 23:32:35 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52279b4
+29 May 2018 23:32:35 GMT:  Kind = WARNING
+29 May 2018 23:32:35 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@131f5d65
+29 May 2018 23:32:35 GMT:  Kind = WARNING
+29 May 2018 23:32:35 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:32:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f6fd5eb
+29 May 2018 23:32:35 GMT:  Kind = WARNING
+29 May 2018 23:32:35 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:33:27 GMT: diagnostics = javax.tools.DiagnosticCollector@44d0e438
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7001d161
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java, C:\Users\user\Desktop\lab 3.2\HardPrb3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java]
+29 May 2018 23:33:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6a157da1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:33:27 GMT: Compiler call returned
+29 May 2018 23:33:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5155ecc6
+29 May 2018 23:33:27 GMT:  Kind = WARNING
+29 May 2018 23:33:27 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:33:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ce6db2e
+29 May 2018 23:33:27 GMT:  Kind = WARNING
+29 May 2018 23:33:27 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:33:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73f0e84e
+29 May 2018 23:33:27 GMT:  Kind = WARNING
+29 May 2018 23:33:27 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:33:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@390c3048
+29 May 2018 23:33:27 GMT:  Kind = WARNING
+29 May 2018 23:33:27 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:33:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47c1c873
+29 May 2018 23:33:27 GMT:  Kind = WARNING
+29 May 2018 23:33:27 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:33:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d44540e
+29 May 2018 23:33:27 GMT:  Kind = WARNING
+29 May 2018 23:33:27 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:33:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9826170
+29 May 2018 23:33:27 GMT:  Kind = WARNING
+29 May 2018 23:33:27 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:33:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51d48e78
+29 May 2018 23:33:27 GMT:  Kind = WARNING
+29 May 2018 23:33:27 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:34:27 GMT: diagnostics = javax.tools.DiagnosticCollector@37af1094
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@64c9f0e9
+fileObjects = [C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2 atik\hard1.java, C:\Users\user\Desktop\lab 3.2 atik\hard2.java, C:\Users\user\Desktop\lab 3.2 atik\hard3.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java, C:\Users\user\Desktop\lab 3.2\HardPrb3.java, C:\Users\user\Desktop\lab 3.2 atik\hard4.java, C:\Users\user\Desktop\lab 3.2\HardPrb4.java]
+29 May 2018 23:34:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5f43ea43' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Desktop\lab 3.2 atik;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:34:27 GMT: Compiler call returned
+29 May 2018 23:34:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@38acf9b
+29 May 2018 23:34:27 GMT:  Kind = WARNING
+29 May 2018 23:34:27 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:34:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c70f296
+29 May 2018 23:34:27 GMT:  Kind = WARNING
+29 May 2018 23:34:27 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:34:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f0ab27d
+29 May 2018 23:34:27 GMT:  Kind = WARNING
+29 May 2018 23:34:27 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:34:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@234a2ac4
+29 May 2018 23:34:27 GMT:  Kind = WARNING
+29 May 2018 23:34:27 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:34:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7669cf21
+29 May 2018 23:34:27 GMT:  Kind = WARNING
+29 May 2018 23:34:27 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:34:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4db67738
+29 May 2018 23:34:27 GMT:  Kind = WARNING
+29 May 2018 23:34:27 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:34:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17f5ada9
+29 May 2018 23:34:27 GMT:  Kind = WARNING
+29 May 2018 23:34:27 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:34:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@659bb999
+29 May 2018 23:34:27 GMT:  Kind = WARNING
+29 May 2018 23:34:27 GMT: Name = C:\Users\user\Desktop\lab 3.2 atik\hard4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:34:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d3362cc
+29 May 2018 23:34:27 GMT:  Kind = WARNING
+29 May 2018 23:34:27 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:34:59 GMT: Log 'EclipseCompiler.txt' opened: 29 May 2018 23:34:59 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+29 May 2018 23:36:31 GMT: Log 'EclipseCompiler.txt' opened: 29 May 2018 23:36:31 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+29 May 2018 23:36:37 GMT: diagnostics = javax.tools.DiagnosticCollector@4dffdcf5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@68c2f29f
+fileObjects = [C:\Users\user\AppData\Local\Temp\Rar$DIa0.090\HardPrb4.java]
+29 May 2018 23:36:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4885697a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\AppData\Local\Temp\Rar$DIa0.090;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:36:37 GMT: Compiler call returned
+29 May 2018 23:36:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21988dc1
+29 May 2018 23:36:37 GMT:  Kind = WARNING
+29 May 2018 23:36:37 GMT: Name = C:\Users\user\AppData\Local\Temp\Rar$DIa0.090\HardPrb4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:36:52 GMT: Log 'EclipseCompiler.txt' opened: 29 May 2018 23:36:52 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+29 May 2018 23:36:59 GMT: diagnostics = javax.tools.DiagnosticCollector@12ea9d39
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@25f516ee
+fileObjects = [C:\Users\user\Desktop\lab 3.2\HardPrb4.java]
+29 May 2018 23:36:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@adb37b4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:36:59 GMT: Compiler call returned
+29 May 2018 23:36:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68fdd0dd
+29 May 2018 23:36:59 GMT:  Kind = WARNING
+29 May 2018 23:36:59 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:37:07 GMT: diagnostics = javax.tools.DiagnosticCollector@687fa796
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3bf63678
+fileObjects = [C:\Users\user\Desktop\lab 3.2\HardPrb4.java]
+29 May 2018 23:37:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@350339b1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:37:07 GMT: Compiler call returned
+29 May 2018 23:37:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@335a48a0
+29 May 2018 23:37:07 GMT:  Kind = WARNING
+29 May 2018 23:37:07 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:37:15 GMT: diagnostics = javax.tools.DiagnosticCollector@3190b95a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@62415130
+fileObjects = [C:\Users\user\Desktop\lab 3.2\HardPrb4.java]
+29 May 2018 23:37:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16001fc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:37:16 GMT: Compiler call returned
+29 May 2018 23:37:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b45e22a
+29 May 2018 23:37:16 GMT:  Kind = WARNING
+29 May 2018 23:37:16 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+29 May 2018 23:37:36 GMT: Log 'EclipseCompiler.txt' opened: 29 May 2018 23:37:36 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+29 May 2018 23:39:17 GMT: diagnostics = javax.tools.DiagnosticCollector@17be20f1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@30c7dba0
+fileObjects = [C:\Users\user\Desktop\lab 3.2\HardPrb3.java]
+29 May 2018 23:39:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@379559d7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+29 May 2018 23:39:17 GMT: Compiler call returned
+29 May 2018 23:39:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ca6b1d8
+29 May 2018 23:39:17 GMT:  Kind = WARNING
+29 May 2018 23:39:17 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:17:05 GMT: Log 'EclipseCompiler.txt' opened: 30 May 2018 17:17:05 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+30 May 2018 17:18:36 GMT: Log 'EclipseCompiler.txt' opened: 30 May 2018 17:18:36 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+30 May 2018 17:18:38 GMT: Log 'EclipseCompiler.txt' opened: 30 May 2018 17:18:38 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+30 May 2018 17:19:39 GMT: Log 'EclipseCompiler.txt' opened: 30 May 2018 17:19:39 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+30 May 2018 17:20:34 GMT: diagnostics = javax.tools.DiagnosticCollector@a64229c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f5ac883
+fileObjects = [C:\Users\user\Desktop\lab 3.2\EasyPrb1.java, C:\Users\user\Desktop\lab 3.2\EasyPrb2.java, C:\Users\user\Desktop\lab 3.2\EasyPrb3.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java, C:\Users\user\Desktop\lab 3.2\HardPrb3.java, C:\Users\user\Desktop\lab 3.2\HardPrb4.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java]
+30 May 2018 17:20:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13aec2cf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+30 May 2018 17:20:35 GMT: Compiler call returned
+30 May 2018 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25a14ba5
+30 May 2018 17:20:35 GMT:  Kind = WARNING
+30 May 2018 17:20:35 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ef3ef8e
+30 May 2018 17:20:35 GMT:  Kind = WARNING
+30 May 2018 17:20:35 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@41a07d96
+30 May 2018 17:20:35 GMT:  Kind = WARNING
+30 May 2018 17:20:35 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2cbed3e7
+30 May 2018 17:20:35 GMT:  Kind = WARNING
+30 May 2018 17:20:35 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:20:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@416473c8
+30 May 2018 17:20:35 GMT:  Kind = WARNING
+30 May 2018 17:20:35 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:21:31 GMT: Log 'EclipseCompiler.txt' opened: 30 May 2018 17:21:31 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+30 May 2018 17:25:08 GMT: diagnostics = javax.tools.DiagnosticCollector@5d46e838
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3765995b
+fileObjects = [C:\Users\user\Desktop\lab 3.2\EasyPrb1.java, C:\Users\user\Desktop\lab 3.2\EasyPrb2.java, C:\Users\user\Desktop\lab 3.2\EasyPrb3.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java, C:\Users\user\Desktop\lab 3.2\HardPrb3.java, C:\Users\user\Desktop\lab 3.2\HardPrb4.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java]
+30 May 2018 17:25:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@364e19c5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+30 May 2018 17:25:09 GMT: Compiler call returned
+30 May 2018 17:25:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@513fe88
+30 May 2018 17:25:09 GMT:  Kind = WARNING
+30 May 2018 17:25:09 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:25:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57555444
+30 May 2018 17:25:09 GMT:  Kind = WARNING
+30 May 2018 17:25:09 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb3.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:25:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4d281798
+30 May 2018 17:25:09 GMT:  Kind = WARNING
+30 May 2018 17:25:09 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb4.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:25:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6d61822a
+30 May 2018 17:25:09 GMT:  Kind = WARNING
+30 May 2018 17:25:09 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:25:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21fe6533
+30 May 2018 17:25:09 GMT:  Kind = WARNING
+30 May 2018 17:25:09 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:25:58 GMT: diagnostics = javax.tools.DiagnosticCollector@31ea8743
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f299864
+fileObjects = [C:\Users\user\Desktop\lab 3.2\EasyPrb1.java, C:\Users\user\Desktop\lab 3.2\EasyPrb2.java, C:\Users\user\Desktop\lab 3.2\EasyPrb3.java, C:\Users\user\Desktop\lab 3.2\HardPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb1.java, C:\Users\user\Desktop\lab 3.2\MediumPrb2.java, C:\Users\user\Desktop\lab 3.2\MediumPrb3.java, C:\Users\user\Desktop\lab 3.2\MediumPrb4.java, C:\Users\user\Desktop\lab 3.2\HardPrb2.java, C:\Users\user\Desktop\lab 3.2\HardPrb3.java, C:\Users\user\Desktop\lab 3.2\HardPrb4.java]
+30 May 2018 17:25:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@720ba5ae' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+30 May 2018 17:25:58 GMT: Compiler call returned
+30 May 2018 17:25:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27cf5829
+30 May 2018 17:25:58 GMT:  Kind = WARNING
+30 May 2018 17:25:58 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:25:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@22d4ea00
+30 May 2018 17:25:58 GMT:  Kind = WARNING
+30 May 2018 17:25:58 GMT: Name = C:\Users\user\Desktop\lab 3.2\MediumPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:25:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@282c6f58
+30 May 2018 17:25:58 GMT:  Kind = WARNING
+30 May 2018 17:25:58 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb2.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:25:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@526ac0aa
+30 May 2018 17:25:58 GMT:  Kind = WARNING
+30 May 2018 17:25:58 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb3.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:25:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f39c4de
+30 May 2018 17:25:58 GMT:  Kind = WARNING
+30 May 2018 17:25:58 GMT: Name = C:\Users\user\Desktop\lab 3.2\HardPrb4.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+30 May 2018 17:26:18 GMT: Log 'EclipseCompiler.txt' opened: 30 May 2018 17:26:18 GMT with name C:\Users\user\Desktop\lab 3.2\EclipseCompiler.txt
+27 Aug 2018 12:17:26 GMT: Log 'EclipseCompiler.txt' opened: 27 Aug 2018 12:17:26 GMT with name D:\CSE Courses\CSE111\Labs solution\lab 3\lab 3.2\EclipseCompiler.txt
