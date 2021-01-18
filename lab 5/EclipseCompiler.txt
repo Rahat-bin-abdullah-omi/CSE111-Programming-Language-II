@@ -1,0 +1,913 @@
+15 Jun 2018 10:44:21 GMT: Log 'EclipseCompiler.txt' opened: 15 Jun 2018 10:44:21 GMT with name C:\Users\user\Desktop\RYJUJYTRJRJ\EclipseCompiler.txt
+17 Jun 2018 14:03:05 GMT: Log 'EclipseCompiler.txt' opened: 17 Jun 2018 14:03:05 GMT with name C:\Users\user\Desktop\RYJUJYTRJRJ\EclipseCompiler.txt
+17 Jun 2018 14:03:05 GMT: Log 'EclipseCompiler.txt' opened: 17 Jun 2018 14:03:05 GMT with name C:\Users\user\Desktop\RYJUJYTRJRJ\EclipseCompiler.txt
+17 Jun 2018 19:00:20 GMT: diagnostics = javax.tools.DiagnosticCollector@54ad8cb6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6bea7142
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 19:00:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@35dc9fe7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 19:00:21 GMT: Compiler call returned
+17 Jun 2018 19:00:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ac72f0d
+17 Jun 2018 19:00:21 GMT:  Kind = ERROR
+17 Jun 2018 19:00:21 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 73 ColNo = 47 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+17 Jun 2018 19:00:30 GMT: diagnostics = javax.tools.DiagnosticCollector@3669b927
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@71506f95
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 19:00:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2c035306' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 19:00:30 GMT: Compiler call returned
+17 Jun 2018 19:00:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fdf4f11
+17 Jun 2018 19:00:30 GMT:  Kind = ERROR
+17 Jun 2018 19:00:30 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 73 ColNo = 5 Msg = 'Stirng cannot be resolved to a type'
+17 Jun 2018 19:00:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46a880c9
+17 Jun 2018 19:00:30 GMT:  Kind = ERROR
+17 Jun 2018 19:00:30 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 75 ColNo = 19 Msg = 'newStringArray cannot be resolved to a variable'
+17 Jun 2018 19:00:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@639e94e6
+17 Jun 2018 19:00:30 GMT:  Kind = ERROR
+17 Jun 2018 19:00:30 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 79 ColNo = 9 Msg = 'newStringArray cannot be resolved to a variable'
+17 Jun 2018 19:00:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@483bfc91
+17 Jun 2018 19:00:30 GMT:  Kind = ERROR
+17 Jun 2018 19:00:30 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 82 ColNo = 29 Msg = 'newStringArray cannot be resolved to a variable'
+17 Jun 2018 19:00:42 GMT: diagnostics = javax.tools.DiagnosticCollector@349e5496
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6d2db5b5
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 19:00:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7780d99c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 19:00:42 GMT: Compiler call returned
+17 Jun 2018 19:00:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d055c9b
+17 Jun 2018 19:00:42 GMT:  Kind = ERROR
+17 Jun 2018 19:00:42 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 75 ColNo = 19 Msg = 'newStringArray cannot be resolved to a variable'
+17 Jun 2018 19:00:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@557b6fc9
+17 Jun 2018 19:00:42 GMT:  Kind = ERROR
+17 Jun 2018 19:00:42 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 79 ColNo = 9 Msg = 'newStringArray cannot be resolved to a variable'
+17 Jun 2018 19:00:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@279fa018
+17 Jun 2018 19:00:42 GMT:  Kind = ERROR
+17 Jun 2018 19:00:42 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 82 ColNo = 29 Msg = 'newStringArray cannot be resolved to a variable'
+17 Jun 2018 19:01:10 GMT: diagnostics = javax.tools.DiagnosticCollector@23edd4d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5ea4b1aa
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 19:01:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@552e2990' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 19:01:10 GMT: Compiler call returned
+17 Jun 2018 19:01:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c083af3
+17 Jun 2018 19:01:10 GMT:  Kind = ERROR
+17 Jun 2018 19:01:10 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 77 ColNo = 10 Msg = 'newStirngArray cannot be resolved to a variable'
+17 Jun 2018 19:01:19 GMT: diagnostics = javax.tools.DiagnosticCollector@4426d074
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@57135063
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 19:01:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5004304e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 19:01:19 GMT: Compiler call returned
+17 Jun 2018 19:01:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b4d7ea9
+17 Jun 2018 19:01:19 GMT:  Kind = ERROR
+17 Jun 2018 19:01:19 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 84 ColNo = 5 Msg = 'Unreachable code'
+17 Jun 2018 19:01:38 GMT: diagnostics = javax.tools.DiagnosticCollector@69c42c32
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2028b90c
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 19:01:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6b93df94' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 19:01:38 GMT: Compiler call returned
+17 Jun 2018 19:01:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@62291086
+17 Jun 2018 19:01:38 GMT:  Kind = ERROR
+17 Jun 2018 19:01:38 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 82 ColNo = 44 Msg = 'Syntax error, insert "}" to complete MethodBody'
+17 Jun 2018 19:02:05 GMT: diagnostics = javax.tools.DiagnosticCollector@1f1c48fc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7e86936f
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 19:02:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5d2c036' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 19:02:05 GMT: Compiler call returned
+17 Jun 2018 19:49:23 GMT: diagnostics = javax.tools.DiagnosticCollector@3fe4680
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4bdecdc6
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 19:49:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6ac49c11' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 19:49:23 GMT: Compiler call returned
+17 Jun 2018 20:05:56 GMT: diagnostics = javax.tools.DiagnosticCollector@3846dfee
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d052789
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 20:05:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2e7908a8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 20:05:56 GMT: Compiler call returned
+17 Jun 2018 21:39:55 GMT: diagnostics = javax.tools.DiagnosticCollector@3f587ca4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@180723b0
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 21:39:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7719963d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 21:39:55 GMT: Compiler call returned
+17 Jun 2018 21:39:58 GMT: diagnostics = javax.tools.DiagnosticCollector@5306c179
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3298157a
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+17 Jun 2018 21:39:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@31101504' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+17 Jun 2018 21:39:58 GMT: Compiler call returned
+20 Jun 2018 14:56:02 GMT: Log 'EclipseCompiler.txt' opened: 20 Jun 2018 14:56:02 GMT with name C:\Users\user\Desktop\RYJUJYTRJRJ\EclipseCompiler.txt
+20 Jun 2018 15:03:30 GMT: diagnostics = javax.tools.DiagnosticCollector@14e30b77
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@233477cb
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:03:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3eaf2530' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:03:31 GMT: Compiler call returned
+20 Jun 2018 15:03:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@237692e5
+20 Jun 2018 15:03:31 GMT:  Kind = ERROR
+20 Jun 2018 15:03:31 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 88 ColNo = 19 Msg = 'newStirngArray cannot be resolved to a variable'
+20 Jun 2018 15:03:46 GMT: diagnostics = javax.tools.DiagnosticCollector@34ad970
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@540d0263
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:03:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@51fb49e0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:03:47 GMT: Compiler call returned
+20 Jun 2018 15:03:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@276b4cb7
+20 Jun 2018 15:03:47 GMT:  Kind = ERROR
+20 Jun 2018 15:03:47 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 88 ColNo = 19 Msg = 'newStirngArray cannot be resolved'
+20 Jun 2018 15:04:30 GMT: diagnostics = javax.tools.DiagnosticCollector@65f38ade
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e8c37a5
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:04:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@20eff7a0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:04:30 GMT: Compiler call returned
+20 Jun 2018 15:05:04 GMT: diagnostics = javax.tools.DiagnosticCollector@5da95a03
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@22664b4a
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:05:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b36cc3c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:05:04 GMT: Compiler call returned
+20 Jun 2018 15:06:20 GMT: diagnostics = javax.tools.DiagnosticCollector@798a0c3c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@50198b14
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:06:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4d0f1ee3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:06:20 GMT: Compiler call returned
+20 Jun 2018 15:08:56 GMT: diagnostics = javax.tools.DiagnosticCollector@7d3c7ffa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@729f0bd
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:08:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f1be0c7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:08:56 GMT: Compiler call returned
+20 Jun 2018 15:08:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2d3a3ac2
+20 Jun 2018 15:08:56 GMT:  Kind = ERROR
+20 Jun 2018 15:08:56 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 96 ColNo = 19 Msg = 'The method ValueOf(char[]) is undefined for the type java.lang.String'
+20 Jun 2018 15:09:12 GMT: diagnostics = javax.tools.DiagnosticCollector@3cc601f9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@633d61ee
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:09:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e96e361' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:09:12 GMT: Compiler call returned
+20 Jun 2018 15:09:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67c0421d
+20 Jun 2018 15:09:12 GMT:  Kind = ERROR
+20 Jun 2018 15:09:12 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 96 ColNo = 5 Msg = 'Void methods cannot return a value'
+20 Jun 2018 15:09:56 GMT: diagnostics = javax.tools.DiagnosticCollector@43670bf1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@267dae69
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:09:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4c16087' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:09:56 GMT: Compiler call returned
+20 Jun 2018 15:16:53 GMT: diagnostics = javax.tools.DiagnosticCollector@1f8670b8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@75cf9972
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:16:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12bd7d76' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:16:53 GMT: Compiler call returned
+20 Jun 2018 15:16:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9542bd5
+20 Jun 2018 15:16:53 GMT:  Kind = ERROR
+20 Jun 2018 15:16:53 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 75 ColNo = 19 Msg = 'Cannot invoke length() on the array type char[]'
+20 Jun 2018 15:17:22 GMT: diagnostics = javax.tools.DiagnosticCollector@35e5d4b0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@635560f1
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:17:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6c68c2d9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:17:22 GMT: Compiler call returned
+20 Jun 2018 15:21:52 GMT: diagnostics = javax.tools.DiagnosticCollector@17e4784c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@53f75984
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:21:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@33e657db' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:21:53 GMT: Compiler call returned
+20 Jun 2018 15:21:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@751c97b6
+20 Jun 2018 15:21:53 GMT:  Kind = ERROR
+20 Jun 2018 15:21:53 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 92 ColNo = 27 Msg = 'Syntax error, insert ":: IdentifierOrNew" to complete ReferenceExpression'
+20 Jun 2018 15:21:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5da51ef0
+20 Jun 2018 15:21:53 GMT:  Kind = ERROR
+20 Jun 2018 15:21:53 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 92 ColNo = 27 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+20 Jun 2018 15:21:58 GMT: diagnostics = javax.tools.DiagnosticCollector@1dbc72a0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6b1977ed
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:21:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@75550766' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:21:58 GMT: Compiler call returned
+20 Jun 2018 15:21:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@235a0f07
+20 Jun 2018 15:21:58 GMT:  Kind = ERROR
+20 Jun 2018 15:21:58 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 92 ColNo = 9 Msg = 'The left-hand side of an assignment must be a variable'
+20 Jun 2018 15:25:03 GMT: diagnostics = javax.tools.DiagnosticCollector@7c6e303f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ae59316
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:25:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19297df3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:25:03 GMT: Compiler call returned
+20 Jun 2018 15:25:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3eed5d4e
+20 Jun 2018 15:25:03 GMT:  Kind = ERROR
+20 Jun 2018 15:25:03 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 84 ColNo = 12 Msg = 'Syntax error, insert ";" to complete ReturnStatement'
+20 Jun 2018 15:25:07 GMT: diagnostics = javax.tools.DiagnosticCollector@79ee7401
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@64c7898d
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:25:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6ac79031' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:25:07 GMT: Compiler call returned
+20 Jun 2018 15:30:40 GMT: diagnostics = javax.tools.DiagnosticCollector@4d76c6f7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@59231438
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 15:30:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15766408' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:30:40 GMT: Compiler call returned
+20 Jun 2018 15:30:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72cd5b3b
+20 Jun 2018 15:30:40 GMT:  Kind = ERROR
+20 Jun 2018 15:30:40 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 44 ColNo = 56 Msg = 'The method replaceFirst(char, char) in the type MyString is not applicable for the arguments ()'
+20 Jun 2018 15:32:47 GMT: diagnostics = javax.tools.DiagnosticCollector@40638337
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d7ebb15
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 15:32:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7e32bfd4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:32:48 GMT: Compiler call returned
+20 Jun 2018 15:34:37 GMT: diagnostics = javax.tools.DiagnosticCollector@520d01d8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2b299b79
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 15:34:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f4a2aa9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:34:37 GMT: Compiler call returned
+20 Jun 2018 15:35:36 GMT: diagnostics = javax.tools.DiagnosticCollector@9c77d82
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@613ecda0
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 15:35:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7bada205' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:35:36 GMT: Compiler call returned
+20 Jun 2018 15:37:34 GMT: diagnostics = javax.tools.DiagnosticCollector@406e3c8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@20a15d87
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 15:37:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6d50ec43' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:37:34 GMT: Compiler call returned
+20 Jun 2018 15:46:44 GMT: diagnostics = javax.tools.DiagnosticCollector@7baaf333
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5bf7af7c
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:46:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5f88c7f8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:46:44 GMT: Compiler call returned
+20 Jun 2018 15:46:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@51f45400
+20 Jun 2018 15:46:44 GMT:  Kind = ERROR
+20 Jun 2018 15:46:44 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 113 ColNo = 5 Msg = 'Void methods cannot return a value'
+20 Jun 2018 15:47:01 GMT: diagnostics = javax.tools.DiagnosticCollector@733535cb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8d35105
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 15:47:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@33d5bb49' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:47:01 GMT: Compiler call returned
+20 Jun 2018 15:48:22 GMT: diagnostics = javax.tools.DiagnosticCollector@2c3a3e7f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b410cf3
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 15:48:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@382d1124' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 15:48:22 GMT: Compiler call returned
+20 Jun 2018 16:02:03 GMT: diagnostics = javax.tools.DiagnosticCollector@94268e0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@22fa1573
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 16:02:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@23cdb06e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:02:03 GMT: Compiler call returned
+20 Jun 2018 16:02:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6907ad2b
+20 Jun 2018 16:02:03 GMT:  Kind = ERROR
+20 Jun 2018 16:02:03 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 102 ColNo = 17 Msg = 'This method must return a result of type java.lang.String'
+20 Jun 2018 16:02:25 GMT: diagnostics = javax.tools.DiagnosticCollector@1083b7b4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2aa888f9
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 16:02:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7ee70637' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:02:25 GMT: Compiler call returned
+20 Jun 2018 16:19:41 GMT: diagnostics = javax.tools.DiagnosticCollector@19e34418
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@79ca20ab
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 16:19:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@66e1c5bd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:19:41 GMT: Compiler call returned
+20 Jun 2018 16:27:39 GMT: diagnostics = javax.tools.DiagnosticCollector@7b8e61cd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4a9477e0
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 16:27:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d04b86d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:27:39 GMT: Compiler call returned
+20 Jun 2018 16:29:26 GMT: diagnostics = javax.tools.DiagnosticCollector@4555c29e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@51fdc7f1
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 16:29:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@401ee630' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:29:26 GMT: Compiler call returned
+20 Jun 2018 16:31:56 GMT: diagnostics = javax.tools.DiagnosticCollector@683bfd69
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9975413
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 16:31:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@72b33f36' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:31:56 GMT: Compiler call returned
+20 Jun 2018 16:46:40 GMT: diagnostics = javax.tools.DiagnosticCollector@1d47e6fd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@44d56e88
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 16:46:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@63174fb5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:46:40 GMT: Compiler call returned
+20 Jun 2018 16:46:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27e4656e
+20 Jun 2018 16:46:40 GMT:  Kind = ERROR
+20 Jun 2018 16:46:40 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 70 ColNo = 7 Msg = 'The method toLowerCase(java.lang.String) in the type MyString is not applicable for the arguments ()'
+20 Jun 2018 16:47:35 GMT: diagnostics = javax.tools.DiagnosticCollector@40e2d57a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2445b23e
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 16:47:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6ca3a961' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:47:35 GMT: Compiler call returned
+20 Jun 2018 16:47:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@587e6e7e
+20 Jun 2018 16:47:35 GMT:  Kind = ERROR
+20 Jun 2018 16:47:35 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 70 ColNo = 7 Msg = 'Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration'
+20 Jun 2018 16:47:44 GMT: diagnostics = javax.tools.DiagnosticCollector@6ddd4415
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@52a9cb47
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 16:47:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@40808590' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:47:44 GMT: Compiler call returned
+20 Jun 2018 16:47:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c993fef
+20 Jun 2018 16:47:44 GMT:  Kind = ERROR
+20 Jun 2018 16:47:44 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 70 ColNo = 7 Msg = 'The method toLowerCase(java.lang.String) in the type MyString is not applicable for the arguments ()'
+20 Jun 2018 16:48:40 GMT: diagnostics = javax.tools.DiagnosticCollector@705f27c4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6cea8716
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 16:48:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@34e81055' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:48:40 GMT: Compiler call returned
+20 Jun 2018 16:50:14 GMT: diagnostics = javax.tools.DiagnosticCollector@1bb66055
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7ebcf43f
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 16:50:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6659b6c4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:50:14 GMT: Compiler call returned
+20 Jun 2018 16:50:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f201a55
+20 Jun 2018 16:50:14 GMT:  Kind = ERROR
+20 Jun 2018 16:50:14 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 72 ColNo = 69 Msg = 'Syntax error on token ";", delete this token'
+20 Jun 2018 16:50:21 GMT: diagnostics = javax.tools.DiagnosticCollector@36ef1b63
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@328aac46
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 16:50:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f7f1fa1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:50:21 GMT: Compiler call returned
+20 Jun 2018 16:52:03 GMT: diagnostics = javax.tools.DiagnosticCollector@2ac585eb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a207d3
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 16:52:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@697b89eb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:52:03 GMT: Compiler call returned
+20 Jun 2018 16:55:01 GMT: diagnostics = javax.tools.DiagnosticCollector@3a59a102
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4e129a03
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 16:55:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7fb76e27' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 16:55:01 GMT: Compiler call returned
+20 Jun 2018 20:12:47 GMT: diagnostics = javax.tools.DiagnosticCollector@72d1c853
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c7aa9fe
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 20:12:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1193b2a1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:12:47 GMT: Compiler call returned
+20 Jun 2018 20:12:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52dbceb0
+20 Jun 2018 20:12:47 GMT:  Kind = ERROR
+20 Jun 2018 20:12:47 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 79 ColNo = 7 Msg = 'The method toUpperCase(java.lang.String) in the type MyString is not applicable for the arguments ()'
+20 Jun 2018 20:12:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@353dab97
+20 Jun 2018 20:12:47 GMT:  Kind = ERROR
+20 Jun 2018 20:12:47 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 81 ColNo = 59 Msg = 'my_stirng cannot be resolved to a variable'
+20 Jun 2018 20:12:55 GMT: diagnostics = javax.tools.DiagnosticCollector@431342bd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4f8961cb
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 20:12:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18f7f279' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:12:55 GMT: Compiler call returned
+20 Jun 2018 20:12:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2fef1a9f
+20 Jun 2018 20:12:55 GMT:  Kind = ERROR
+20 Jun 2018 20:12:55 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 80 ColNo = 59 Msg = 'my_stirng cannot be resolved to a variable'
+20 Jun 2018 20:13:16 GMT: diagnostics = javax.tools.DiagnosticCollector@67bd779f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@75454581
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+20 Jun 2018 20:13:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6593be4e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:13:16 GMT: Compiler call returned
+20 Jun 2018 20:21:23 GMT: diagnostics = javax.tools.DiagnosticCollector@26f9c80b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3cb70fe2
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 20:21:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5a943867' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:21:24 GMT: Compiler call returned
+20 Jun 2018 20:21:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@447096d9
+20 Jun 2018 20:21:24 GMT:  Kind = ERROR
+20 Jun 2018 20:21:24 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 145 ColNo = 29 Msg = 'Type mismatch: cannot convert from char[] to java.lang.String[]'
+20 Jun 2018 20:21:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@79c7e65b
+20 Jun 2018 20:21:24 GMT:  Kind = ERROR
+20 Jun 2018 20:21:24 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 148 ColNo = 10 Msg = 'Incompatible operand types java.lang.String and char'
+20 Jun 2018 20:22:08 GMT: diagnostics = javax.tools.DiagnosticCollector@283e3f65
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@23452f69
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 20:22:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4514136c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:22:08 GMT: Compiler call returned
+20 Jun 2018 20:40:56 GMT: diagnostics = javax.tools.DiagnosticCollector@b3f98e1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4c6e4d24
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 20:40:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@179053db' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;D:\CSE111\Labs solution\lab 3\lab 3.1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:40:56 GMT: Compiler call returned
+20 Jun 2018 20:40:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@782e9d7
+20 Jun 2018 20:40:56 GMT:  Kind = WARNING
+20 Jun 2018 20:40:56 GMT: Name = D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jun 2018 20:41:40 GMT: diagnostics = javax.tools.DiagnosticCollector@62634983
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@66ff9e48
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 20:41:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@63c20222' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;D:\CSE111\Labs solution\lab 3\lab 3.1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:41:40 GMT: Compiler call returned
+20 Jun 2018 20:41:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5bdf82b7
+20 Jun 2018 20:41:40 GMT:  Kind = WARNING
+20 Jun 2018 20:41:40 GMT: Name = D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jun 2018 20:42:18 GMT: diagnostics = javax.tools.DiagnosticCollector@3136f9ed
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@31203d5f
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 20:42:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@516602e8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;D:\CSE111\Labs solution\lab 3\lab 3.1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:42:18 GMT: Compiler call returned
+20 Jun 2018 20:42:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24032520
+20 Jun 2018 20:42:18 GMT:  Kind = WARNING
+20 Jun 2018 20:42:18 GMT: Name = D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+20 Jun 2018 20:54:24 GMT: diagnostics = javax.tools.DiagnosticCollector@378e5347
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@68585bb
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 20:54:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5db4abc8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:54:24 GMT: Compiler call returned
+20 Jun 2018 20:54:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f21ae83
+20 Jun 2018 20:54:24 GMT:  Kind = ERROR
+20 Jun 2018 20:54:24 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 162 ColNo = 14 Msg = 'This method must return a result of type int'
+20 Jun 2018 20:56:41 GMT: diagnostics = javax.tools.DiagnosticCollector@46d1b897
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6b66c0cf
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 20:56:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d517720' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:56:41 GMT: Compiler call returned
+20 Jun 2018 20:57:41 GMT: diagnostics = javax.tools.DiagnosticCollector@773e65bd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e6814f9
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 20:57:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7faf9a87' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 20:57:41 GMT: Compiler call returned
+20 Jun 2018 21:00:09 GMT: diagnostics = javax.tools.DiagnosticCollector@4367fc94
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e9ab138
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 21:00:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4aa1f60f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 21:00:09 GMT: Compiler call returned
+20 Jun 2018 21:00:27 GMT: diagnostics = javax.tools.DiagnosticCollector@4bade132
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@103338ca
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 21:00:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2715e2e2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 21:00:27 GMT: Compiler call returned
+20 Jun 2018 21:00:49 GMT: diagnostics = javax.tools.DiagnosticCollector@62124a0a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d0d283f
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 21:00:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2a2d27be' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 21:00:49 GMT: Compiler call returned
+20 Jun 2018 21:02:27 GMT: diagnostics = javax.tools.DiagnosticCollector@4dac8037
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@71817fdf
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, D:\CSE111\Labs solution\lab 3\lab 3.2\EasyPrb3.java]
+20 Jun 2018 21:02:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@604d355' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;D:\CSE111\Labs solution\lab 3\lab 3.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 21:02:28 GMT: Compiler call returned
+20 Jun 2018 21:04:56 GMT: diagnostics = javax.tools.DiagnosticCollector@7850e5c2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3cbad4a4
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 21:04:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5d566bae' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 21:04:57 GMT: Compiler call returned
+20 Jun 2018 21:07:01 GMT: diagnostics = javax.tools.DiagnosticCollector@d59ae38
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@308ebdf2
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 21:07:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@357d4291' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 21:07:01 GMT: Compiler call returned
+20 Jun 2018 21:07:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3579f2e7
+20 Jun 2018 21:07:01 GMT:  Kind = ERROR
+20 Jun 2018 21:07:01 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 173 ColNo = 16 Msg = 'Syntax error on token ",", . expected'
+20 Jun 2018 21:07:08 GMT: diagnostics = javax.tools.DiagnosticCollector@39c644ce
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@30ffb21a
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+20 Jun 2018 21:07:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2efc006c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+20 Jun 2018 21:07:08 GMT: Compiler call returned
+21 Jun 2018 9:52:53 GMT: Log 'EclipseCompiler.txt' opened: 21 Jun 2018 9:52:53 GMT with name C:\Users\user\Desktop\RYJUJYTRJRJ\EclipseCompiler.txt
+21 Jun 2018 9:53:41 GMT: diagnostics = javax.tools.DiagnosticCollector@735db74b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5efc804b
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 9:53:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15254421' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 9:53:42 GMT: Compiler call returned
+21 Jun 2018 9:56:49 GMT: diagnostics = javax.tools.DiagnosticCollector@17760f11
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3f904a2e
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 9:56:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2310a27' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 9:56:49 GMT: Compiler call returned
+21 Jun 2018 9:56:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fcdc0ca
+21 Jun 2018 9:56:49 GMT:  Kind = ERROR
+21 Jun 2018 9:56:49 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 167 ColNo = 3 Msg = 'Syntax error on token "}", delete this token'
+21 Jun 2018 9:57:00 GMT: diagnostics = javax.tools.DiagnosticCollector@310e5e1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c8f9d92
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 9:57:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@60ca3422' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 9:57:00 GMT: Compiler call returned
+21 Jun 2018 9:57:47 GMT: diagnostics = javax.tools.DiagnosticCollector@1c9943de
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@cd36c64
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 9:57:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7172ff7d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 9:57:47 GMT: Compiler call returned
+21 Jun 2018 10:12:38 GMT: diagnostics = javax.tools.DiagnosticCollector@4c18cbd6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@50d4395f
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:12:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d689b24' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;D:\CSE111\Labs solution\lab 3\lab 3.1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:12:38 GMT: Compiler call returned
+21 Jun 2018 10:12:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3cded91e
+21 Jun 2018 10:12:38 GMT:  Kind = WARNING
+21 Jun 2018 10:12:38 GMT: Name = D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jun 2018 10:12:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e6882b8
+21 Jun 2018 10:12:38 GMT:  Kind = ERROR
+21 Jun 2018 10:12:38 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 156 ColNo = 18 Msg = 'This method must return a result of type boolean'
+21 Jun 2018 10:12:52 GMT: diagnostics = javax.tools.DiagnosticCollector@2edb7ce7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bc1d819
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:12:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2f9f5c0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;D:\CSE111\Labs solution\lab 3\lab 3.1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:12:52 GMT: Compiler call returned
+21 Jun 2018 10:12:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b898f87
+21 Jun 2018 10:12:52 GMT:  Kind = WARNING
+21 Jun 2018 10:12:52 GMT: Name = D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jun 2018 10:13:08 GMT: diagnostics = javax.tools.DiagnosticCollector@5226e11a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3fc0b48e
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:13:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d2c8d6c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;D:\CSE111\Labs solution\lab 3\lab 3.1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:13:08 GMT: Compiler call returned
+21 Jun 2018 10:13:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7e64d641
+21 Jun 2018 10:13:08 GMT:  Kind = WARNING
+21 Jun 2018 10:13:08 GMT: Name = D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jun 2018 10:13:20 GMT: diagnostics = javax.tools.DiagnosticCollector@287cc82
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@177d9d0
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:13:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2fad4e70' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;D:\CSE111\Labs solution\lab 3\lab 3.1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:13:20 GMT: Compiler call returned
+21 Jun 2018 10:13:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2c694c3e
+21 Jun 2018 10:13:20 GMT:  Kind = WARNING
+21 Jun 2018 10:13:20 GMT: Name = D:\CSE111\Labs solution\lab 3\lab 3.1\task7b.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jun 2018 10:25:05 GMT: diagnostics = javax.tools.DiagnosticCollector@6494c07e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6fbadfd4
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:25:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@694559c1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:25:05 GMT: Compiler call returned
+21 Jun 2018 10:25:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27e9c964
+21 Jun 2018 10:25:05 GMT:  Kind = ERROR
+21 Jun 2018 10:25:05 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 158 ColNo = 19 Msg = 'Cannot invoke length() on the array type char[]'
+21 Jun 2018 10:25:13 GMT: diagnostics = javax.tools.DiagnosticCollector@5498d980
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5bf67757
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:25:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3b38277e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:25:13 GMT: Compiler call returned
+21 Jun 2018 10:27:21 GMT: diagnostics = javax.tools.DiagnosticCollector@15888530
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@387c1085
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:27:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@291597d1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:27:21 GMT: Compiler call returned
+21 Jun 2018 10:43:01 GMT: diagnostics = javax.tools.DiagnosticCollector@251a585d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@464a6d53
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:43:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@71495984' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:43:01 GMT: Compiler call returned
+21 Jun 2018 10:43:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46220702
+21 Jun 2018 10:43:01 GMT:  Kind = ERROR
+21 Jun 2018 10:43:01 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 160 ColNo = 98 Msg = 'Syntax error, insert ") Statement" to complete BlockStatements'
+21 Jun 2018 10:43:15 GMT: diagnostics = javax.tools.DiagnosticCollector@7dafae03
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6cf0d2f7
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:43:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@727323a4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:43:15 GMT: Compiler call returned
+21 Jun 2018 10:48:06 GMT: diagnostics = javax.tools.DiagnosticCollector@1b8477a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@104ec7fe
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:48:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1098d7ef' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:48:06 GMT: Compiler call returned
+21 Jun 2018 10:57:53 GMT: diagnostics = javax.tools.DiagnosticCollector@616b8c9d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@72af1390
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:57:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4b5f10' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:57:53 GMT: Compiler call returned
+21 Jun 2018 10:57:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b192fa2
+21 Jun 2018 10:57:53 GMT:  Kind = ERROR
+21 Jun 2018 10:57:53 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 163 ColNo = 14 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+21 Jun 2018 10:57:58 GMT: diagnostics = javax.tools.DiagnosticCollector@5349844c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4378ef24
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 10:57:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@483fba12' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 10:57:58 GMT: Compiler call returned
+21 Jun 2018 15:21:26 GMT: diagnostics = javax.tools.DiagnosticCollector@77ea6eb8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1077b875
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 15:21:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1542175' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 15:21:26 GMT: Compiler call returned
+21 Jun 2018 15:22:45 GMT: diagnostics = javax.tools.DiagnosticCollector@de6e4a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@64817c82
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 15:22:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3cf4302a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 15:22:45 GMT: Compiler call returned
+21 Jun 2018 15:23:05 GMT: diagnostics = javax.tools.DiagnosticCollector@19a02d66
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4f66278c
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 15:23:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5d9738df' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 15:23:05 GMT: Compiler call returned
+21 Jun 2018 15:45:28 GMT: diagnostics = javax.tools.DiagnosticCollector@7552476e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@38c1e13e
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 15:45:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7b13c7c1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 15:45:29 GMT: Compiler call returned
+21 Jun 2018 16:21:22 GMT: diagnostics = javax.tools.DiagnosticCollector@3fd8d204
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15415d60
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 16:21:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@56b15ed5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 16:21:22 GMT: Compiler call returned
+21 Jun 2018 16:21:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29e17a8b
+21 Jun 2018 16:21:22 GMT:  Kind = ERROR
+21 Jun 2018 16:21:22 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 226 ColNo = 23 Msg = 'Syntax error on token "(", ; expected'
+21 Jun 2018 16:21:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@525cf117
+21 Jun 2018 16:21:22 GMT:  Kind = ERROR
+21 Jun 2018 16:21:22 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 226 ColNo = 35 Msg = 'Syntax error on token ")", ; expected'
+21 Jun 2018 16:21:38 GMT: diagnostics = javax.tools.DiagnosticCollector@7e0552cf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b1300c2
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 16:21:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@466dd687' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 16:21:38 GMT: Compiler call returned
+21 Jun 2018 16:21:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46a24781
+21 Jun 2018 16:21:38 GMT:  Kind = ERROR
+21 Jun 2018 16:21:38 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 235 ColNo = 3 Msg = 'Syntax error on token "}", delete this token'
+21 Jun 2018 16:21:58 GMT: diagnostics = javax.tools.DiagnosticCollector@38ccb2bb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7c0b0036
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 16:21:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@61347574' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 16:21:58 GMT: Compiler call returned
+21 Jun 2018 16:27:24 GMT: diagnostics = javax.tools.DiagnosticCollector@6c52524f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6261031b
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 16:27:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5712c309' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 16:27:24 GMT: Compiler call returned
+21 Jun 2018 16:33:20 GMT: diagnostics = javax.tools.DiagnosticCollector@7cadd2a0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3922a068
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 16:33:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@76b62eab' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 16:33:20 GMT: Compiler call returned
+21 Jun 2018 16:35:37 GMT: diagnostics = javax.tools.DiagnosticCollector@5999936
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7a3619fb
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 16:35:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3173f27e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 16:35:37 GMT: Compiler call returned
+21 Jun 2018 16:36:40 GMT: diagnostics = javax.tools.DiagnosticCollector@1fe4612b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@742d09e6
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 16:36:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fd2fdfb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 16:36:40 GMT: Compiler call returned
+21 Jun 2018 16:37:19 GMT: diagnostics = javax.tools.DiagnosticCollector@59fc907c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6468dd99
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 16:37:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@77c37d6c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 16:37:19 GMT: Compiler call returned
+21 Jun 2018 19:05:38 GMT: diagnostics = javax.tools.DiagnosticCollector@33c690fd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@69966c64
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 19:05:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2c23af50' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 19:05:38 GMT: Compiler call returned
+21 Jun 2018 19:08:20 GMT: diagnostics = javax.tools.DiagnosticCollector@27cb13dc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@21724657
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 19:08:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4a80dfc8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 19:08:20 GMT: Compiler call returned
+21 Jun 2018 19:17:22 GMT: diagnostics = javax.tools.DiagnosticCollector@7be36e29
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@42834d53
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 19:17:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@230d10c0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 19:17:22 GMT: Compiler call returned
+21 Jun 2018 19:18:56 GMT: diagnostics = javax.tools.DiagnosticCollector@70e516bd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1536def8
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 19:18:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@37f2f2f6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 19:18:56 GMT: Compiler call returned
+21 Jun 2018 19:19:53 GMT: diagnostics = javax.tools.DiagnosticCollector@5eec757c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5824d367
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 19:19:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4a3d4f12' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 19:19:53 GMT: Compiler call returned
+21 Jun 2018 19:20:04 GMT: diagnostics = javax.tools.DiagnosticCollector@d68e231
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5c98781
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 19:20:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@712db48e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 19:20:04 GMT: Compiler call returned
+21 Jun 2018 19:20:41 GMT: diagnostics = javax.tools.DiagnosticCollector@2544a87b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1122fc8f
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 19:20:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@69f7262' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 19:20:41 GMT: Compiler call returned
+21 Jun 2018 19:29:02 GMT: diagnostics = javax.tools.DiagnosticCollector@4cdd9360
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@21f7adc6
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 19:29:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@59a1ed2d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 19:29:02 GMT: Compiler call returned
+21 Jun 2018 21:01:07 GMT: diagnostics = javax.tools.DiagnosticCollector@2ace6415
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3235911e
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:01:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5855aee9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:01:07 GMT: Compiler call returned
+21 Jun 2018 21:32:37 GMT: diagnostics = javax.tools.DiagnosticCollector@15f1bd2c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ad1a22d
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:32:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@179fcd6b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:32:37 GMT: Compiler call returned
+21 Jun 2018 21:32:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57ae1dd6
+21 Jun 2018 21:32:37 GMT:  Kind = ERROR
+21 Jun 2018 21:32:37 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 186 ColNo = 62 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+21 Jun 2018 21:32:43 GMT: diagnostics = javax.tools.DiagnosticCollector@3d7f67af
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@67999e3
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:32:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6b07fcc3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:32:43 GMT: Compiler call returned
+21 Jun 2018 21:32:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@168d362a
+21 Jun 2018 21:32:43 GMT:  Kind = ERROR
+21 Jun 2018 21:32:43 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 176 ColNo = 8 Msg = 'String_array cannot be resolved to a variable'
+21 Jun 2018 21:32:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3e6c39
+21 Jun 2018 21:32:43 GMT:  Kind = ERROR
+21 Jun 2018 21:32:43 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 178 ColNo = 15 Msg = 'String_array cannot be resolved to a variable'
+21 Jun 2018 21:33:01 GMT: diagnostics = javax.tools.DiagnosticCollector@243b4e1e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@53d6f4a1
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:33:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@674a2e6c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:33:01 GMT: Compiler call returned
+21 Jun 2018 21:33:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@563ddcc
+21 Jun 2018 21:33:01 GMT:  Kind = ERROR
+21 Jun 2018 21:33:01 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 176 ColNo = 13 Msg = 'String_array cannot be resolved to a variable'
+21 Jun 2018 21:33:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@746a99be
+21 Jun 2018 21:33:01 GMT:  Kind = ERROR
+21 Jun 2018 21:33:01 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 178 ColNo = 15 Msg = 'String_array cannot be resolved to a variable'
+21 Jun 2018 21:33:03 GMT: diagnostics = javax.tools.DiagnosticCollector@2c4e58c5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7613fca2
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:33:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@28461926' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:33:03 GMT: Compiler call returned
+21 Jun 2018 21:33:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7fdd0b78
+21 Jun 2018 21:33:03 GMT:  Kind = ERROR
+21 Jun 2018 21:33:03 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 176 ColNo = 13 Msg = 'String_array cannot be resolved to a variable'
+21 Jun 2018 21:33:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@79420c91
+21 Jun 2018 21:33:03 GMT:  Kind = ERROR
+21 Jun 2018 21:33:03 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 178 ColNo = 15 Msg = 'String_array cannot be resolved to a variable'
+21 Jun 2018 21:33:09 GMT: diagnostics = javax.tools.DiagnosticCollector@5f27fea1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4ab8651f
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:33:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@780560a0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:33:10 GMT: Compiler call returned
+21 Jun 2018 21:33:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5b612552
+21 Jun 2018 21:33:10 GMT:  Kind = ERROR
+21 Jun 2018 21:33:10 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 178 ColNo = 15 Msg = 'String_array cannot be resolved to a variable'
+21 Jun 2018 21:33:14 GMT: diagnostics = javax.tools.DiagnosticCollector@213483d7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fe393c5
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:33:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f9777ab' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:33:14 GMT: Compiler call returned
+21 Jun 2018 21:35:41 GMT: diagnostics = javax.tools.DiagnosticCollector@9b5249b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@236db2ca
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:35:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3240c492' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:35:41 GMT: Compiler call returned
+21 Jun 2018 21:45:35 GMT: diagnostics = javax.tools.DiagnosticCollector@55e7e30
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@692fb09b
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:45:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2b10da5e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:45:35 GMT: Compiler call returned
+21 Jun 2018 21:45:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4241ad92
+21 Jun 2018 21:45:35 GMT:  Kind = ERROR
+21 Jun 2018 21:45:35 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java LineNo = 211 ColNo = 3 Msg = 'Syntax error on token "}", delete this token'
+21 Jun 2018 21:45:40 GMT: diagnostics = javax.tools.DiagnosticCollector@22a0f597
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@60752099
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:45:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7d2aaa57' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:45:40 GMT: Compiler call returned
+21 Jun 2018 21:46:28 GMT: diagnostics = javax.tools.DiagnosticCollector@11e2ad57
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5c8a4e68
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:46:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7ad9b7ec' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:46:28 GMT: Compiler call returned
+21 Jun 2018 21:46:29 GMT: diagnostics = javax.tools.DiagnosticCollector@6ab299f8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16d7bfce
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:46:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5e999a79' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:46:29 GMT: Compiler call returned
+21 Jun 2018 21:46:32 GMT: diagnostics = javax.tools.DiagnosticCollector@5a935f30
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18ec70dd
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+21 Jun 2018 21:46:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1231e0ea' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:46:32 GMT: Compiler call returned
+21 Jun 2018 21:48:32 GMT: diagnostics = javax.tools.DiagnosticCollector@3dad2996
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3bc65772
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+21 Jun 2018 21:48:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2ca714a3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+21 Jun 2018 21:48:32 GMT: Compiler call returned
+22 Jun 2018 12:31:27 GMT: Log 'EclipseCompiler.txt' opened: 22 Jun 2018 12:31:27 GMT with name C:\Users\user\Desktop\RYJUJYTRJRJ\EclipseCompiler.txt
+22 Jun 2018 12:31:47 GMT: diagnostics = javax.tools.DiagnosticCollector@43acfabf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2c89dcbe
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:31:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7206c563' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:31:48 GMT: Compiler call returned
+22 Jun 2018 12:39:38 GMT: diagnostics = javax.tools.DiagnosticCollector@7f68a19a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5020a6c9
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:39:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6e4aa70' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:39:39 GMT: Compiler call returned
+22 Jun 2018 12:47:10 GMT: diagnostics = javax.tools.DiagnosticCollector@3147477a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1141b4d7
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:47:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@513fd5e5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:47:11 GMT: Compiler call returned
+22 Jun 2018 12:47:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5e704318
+22 Jun 2018 12:47:11 GMT:  Kind = ERROR
+22 Jun 2018 12:47:11 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 38 ColNo = 124 Msg = 'Syntax error on token ")", delete this token'
+22 Jun 2018 12:47:22 GMT: diagnostics = javax.tools.DiagnosticCollector@7afada6a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2e94505e
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:47:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3f2e4468' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:47:22 GMT: Compiler call returned
+22 Jun 2018 12:47:22 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6cb7c485
+22 Jun 2018 12:47:22 GMT:  Kind = ERROR
+22 Jun 2018 12:47:22 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 38 ColNo = 124 Msg = 'Syntax error on token ")", delete this token'
+22 Jun 2018 12:47:54 GMT: diagnostics = javax.tools.DiagnosticCollector@3d1287fa
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@57806c13
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:47:54 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2c86b09d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:47:54 GMT: Compiler call returned
+22 Jun 2018 12:47:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@523f3b58
+22 Jun 2018 12:47:54 GMT:  Kind = ERROR
+22 Jun 2018 12:47:54 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 38 ColNo = 101 Msg = 'Syntax error on token ")", delete this token'
+22 Jun 2018 12:47:54 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7bff01e5
+22 Jun 2018 12:47:54 GMT:  Kind = ERROR
+22 Jun 2018 12:47:54 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 38 ColNo = 125 Msg = 'Syntax error on token ")", delete this token'
+22 Jun 2018 12:48:33 GMT: diagnostics = javax.tools.DiagnosticCollector@2f0180b7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@64337b99
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:48:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6474f6fb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:48:33 GMT: Compiler call returned
+22 Jun 2018 12:49:56 GMT: diagnostics = javax.tools.DiagnosticCollector@62884753
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@777df137
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:49:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@32ba2cfb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:49:56 GMT: Compiler call returned
+22 Jun 2018 12:51:19 GMT: diagnostics = javax.tools.DiagnosticCollector@160d0ca1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5cdf1b89
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:51:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@79d9ba0d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:51:19 GMT: Compiler call returned
+22 Jun 2018 12:51:58 GMT: diagnostics = javax.tools.DiagnosticCollector@5ec76e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@30fb0e14
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:51:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@23678929' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:51:58 GMT: Compiler call returned
+22 Jun 2018 12:51:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@507c83d8
+22 Jun 2018 12:51:58 GMT:  Kind = ERROR
+22 Jun 2018 12:51:58 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 61 ColNo = 56 Msg = 'The method toLowerCase(java.lang.String) in the type MyString is not applicable for the arguments ()'
+22 Jun 2018 12:52:44 GMT: diagnostics = javax.tools.DiagnosticCollector@3fd1b6d5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5c61a334
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:52:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2bac79b5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:52:44 GMT: Compiler call returned
+22 Jun 2018 12:52:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6fc5f24f
+22 Jun 2018 12:52:44 GMT:  Kind = ERROR
+22 Jun 2018 12:52:44 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 61 ColNo = 70 Msg = 'The method toLowerCase(java.lang.String) in the type MyString is not applicable for the arguments ()'
+22 Jun 2018 12:53:15 GMT: diagnostics = javax.tools.DiagnosticCollector@165c5b7f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@203a88a5
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:53:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15a2b374' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:53:15 GMT: Compiler call returned
+22 Jun 2018 12:53:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@326c1302
+22 Jun 2018 12:53:15 GMT:  Kind = ERROR
+22 Jun 2018 12:53:15 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 61 ColNo = 47 Msg = 'toLowerCase cannot be resolved or is not a field'
+22 Jun 2018 12:53:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@362624aa
+22 Jun 2018 12:53:15 GMT:  Kind = ERROR
+22 Jun 2018 12:53:15 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 61 ColNo = 68 Msg = 'The method toLowerCase(java.lang.String) in the type MyString is not applicable for the arguments ()'
+22 Jun 2018 12:53:20 GMT: diagnostics = javax.tools.DiagnosticCollector@34de6992
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c06ed68
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:53:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3667355b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:53:20 GMT: Compiler call returned
+22 Jun 2018 12:53:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@134bd7d8
+22 Jun 2018 12:53:20 GMT:  Kind = ERROR
+22 Jun 2018 12:53:20 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 61 ColNo = 56 Msg = 'The method toLowerCase(java.lang.String) in the type MyString is not applicable for the arguments ()'
+22 Jun 2018 12:53:24 GMT: diagnostics = javax.tools.DiagnosticCollector@662b0c8a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19cbf4e8
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:53:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@77cbdf00' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:53:24 GMT: Compiler call returned
+22 Jun 2018 12:58:00 GMT: diagnostics = javax.tools.DiagnosticCollector@348cd9e9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5434ebfc
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:58:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f718f42' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:58:00 GMT: Compiler call returned
+22 Jun 2018 12:58:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58aceb4e
+22 Jun 2018 12:58:00 GMT:  Kind = ERROR
+22 Jun 2018 12:58:00 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 61 ColNo = 47 Msg = 'toLowerCase cannot be resolved or is not a field'
+22 Jun 2018 12:58:23 GMT: diagnostics = javax.tools.DiagnosticCollector@513516c5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16de3cb8
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 12:58:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@28e8aa36' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 12:58:24 GMT: Compiler call returned
+22 Jun 2018 15:08:50 GMT: diagnostics = javax.tools.DiagnosticCollector@4b4a32f1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@47e5255f
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 15:08:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5db0f961' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 15:08:50 GMT: Compiler call returned
+22 Jun 2018 15:08:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3104467f
+22 Jun 2018 15:08:50 GMT:  Kind = ERROR
+22 Jun 2018 15:08:50 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 68 ColNo = 107 Msg = 'Syntax error on token ")", delete this token'
+22 Jun 2018 15:09:06 GMT: diagnostics = javax.tools.DiagnosticCollector@266aacd9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19f25ad4
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 15:09:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5cd57af7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 15:09:06 GMT: Compiler call returned
+22 Jun 2018 15:09:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@664c2067
+22 Jun 2018 15:09:06 GMT:  Kind = ERROR
+22 Jun 2018 15:09:06 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 68 ColNo = 69 Msg = 'The method toUpperCase(java.lang.String) in the type MyString is not applicable for the arguments ()'
+22 Jun 2018 15:09:09 GMT: diagnostics = javax.tools.DiagnosticCollector@3fff85e3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@267818ad
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 15:09:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fa73364' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 15:09:09 GMT: Compiler call returned
+22 Jun 2018 15:09:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59e85850
+22 Jun 2018 15:09:09 GMT:  Kind = ERROR
+22 Jun 2018 15:09:09 GMT: Name = C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java LineNo = 68 ColNo = 69 Msg = 'The method toUpperCase(java.lang.String) in the type MyString is not applicable for the arguments ()'
+22 Jun 2018 15:09:32 GMT: diagnostics = javax.tools.DiagnosticCollector@5fc2905
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@36c06190
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 15:09:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@59aa6b7b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 15:09:32 GMT: Compiler call returned
+22 Jun 2018 15:12:47 GMT: diagnostics = javax.tools.DiagnosticCollector@dd9f87
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6afd3922
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java]
+22 Jun 2018 15:12:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@133203c3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 15:12:47 GMT: Compiler call returned
+22 Jun 2018 15:12:52 GMT: diagnostics = javax.tools.DiagnosticCollector@76093388
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f4417dc
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+22 Jun 2018 15:12:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@353be288' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 15:12:52 GMT: Compiler call returned
+22 Jun 2018 15:18:59 GMT: diagnostics = javax.tools.DiagnosticCollector@210f99c7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6be1bbf2
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+22 Jun 2018 15:18:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4db9fb92' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 Jun 2018 15:18:59 GMT: Compiler call returned
+22 Jun 2018 15:40:00 GMT: Log 'EclipseCompiler.txt' opened: 22 Jun 2018 15:40:00 GMT with name C:\Users\user\Desktop\RYJUJYTRJRJ\EclipseCompiler.txt
+26 Jun 2018 16:10:29 GMT: Log 'EclipseCompiler.txt' opened: 26 Jun 2018 16:10:29 GMT with name C:\Users\user\Desktop\RYJUJYTRJRJ\EclipseCompiler.txt
+26 Jun 2018 16:11:38 GMT: diagnostics = javax.tools.DiagnosticCollector@45ff3c64
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6385d245
+fileObjects = [C:\Users\user\Desktop\RYJUJYTRJRJ\MyStringTester.java, C:\Users\user\Desktop\RYJUJYTRJRJ\MyString.java]
+26 Jun 2018 16:11:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@46cf1a38' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\RYJUJYTRJRJ;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+26 Jun 2018 16:11:38 GMT: Compiler call returned
+7 Jul 2018 16:57:27 GMT: Log 'EclipseCompiler.txt' opened: 7 Jul 2018 16:57:27 GMT with name D:\CSE111\Labs solution\lab 5\EclipseCompiler.txt
+14 Jul 2018 10:12:59 GMT: Log 'EclipseCompiler.txt' opened: 14 Jul 2018 10:12:59 GMT with name D:\CSE111\Labs solution\lab 5\EclipseCompiler.txt
