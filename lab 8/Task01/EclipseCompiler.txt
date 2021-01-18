@@ -1,0 +1,416 @@
+14 Jul 2018 10:28:37 GMT: Log 'EclipseCompiler.txt' opened: 14 Jul 2018 10:28:37 GMT with name C:\Users\user\Desktop\lab8\Task01\EclipseCompiler.txt
+14 Jul 2018 10:35:24 GMT: diagnostics = javax.tools.DiagnosticCollector@7bee754b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@612eaf83
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 10:35:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7c00d7b6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:35:25 GMT: Compiler call returned
+14 Jul 2018 10:35:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fb0a1e9
+14 Jul 2018 10:35:25 GMT:  Kind = WARNING
+14 Jul 2018 10:35:25 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:37:19 GMT: diagnostics = javax.tools.DiagnosticCollector@576f239
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5131819a
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 10:37:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5f775f2e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:37:20 GMT: Compiler call returned
+14 Jul 2018 10:37:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4dceef38
+14 Jul 2018 10:37:20 GMT:  Kind = WARNING
+14 Jul 2018 10:37:20 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:37:24 GMT: diagnostics = javax.tools.DiagnosticCollector@6b5b8047
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4e5e07b4
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java, C:\Users\user\Desktop\lab8\Task01\Manager.java]
+14 Jul 2018 10:37:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@22432b4f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:37:24 GMT: Compiler call returned
+14 Jul 2018 10:37:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9e65b79
+14 Jul 2018 10:37:24 GMT:  Kind = WARNING
+14 Jul 2018 10:37:24 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:37:37 GMT: diagnostics = javax.tools.DiagnosticCollector@9566dc4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ded48b3
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java, C:\Users\user\Desktop\lab8\Task01\Manager.java]
+14 Jul 2018 10:37:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5b82cfda' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:37:37 GMT: Compiler call returned
+14 Jul 2018 10:37:37 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21b40033
+14 Jul 2018 10:37:37 GMT:  Kind = WARNING
+14 Jul 2018 10:37:37 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:38:08 GMT: diagnostics = javax.tools.DiagnosticCollector@536c02c8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7524616c
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java, C:\Users\user\Desktop\lab8\Task01\Manager.java]
+14 Jul 2018 10:38:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@565ebf83' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:38:09 GMT: Compiler call returned
+14 Jul 2018 10:38:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1806c71c
+14 Jul 2018 10:38:09 GMT:  Kind = WARNING
+14 Jul 2018 10:38:09 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:40:35 GMT: diagnostics = javax.tools.DiagnosticCollector@4b22ef56
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@66589d22
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 10:40:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2d7ec56b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:40:35 GMT: Compiler call returned
+14 Jul 2018 10:40:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47c1c873
+14 Jul 2018 10:40:35 GMT:  Kind = WARNING
+14 Jul 2018 10:40:35 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:41:00 GMT: diagnostics = javax.tools.DiagnosticCollector@7d6af7b2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@69a5467e
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 10:41:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@78f314b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:41:00 GMT: Compiler call returned
+14 Jul 2018 10:41:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@659bb999
+14 Jul 2018 10:41:00 GMT:  Kind = WARNING
+14 Jul 2018 10:41:00 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:50:49 GMT: diagnostics = javax.tools.DiagnosticCollector@6c20f9fe
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f485154
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java, C:\Users\user\Desktop\practise\sadfklja.java]
+14 Jul 2018 10:50:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@266e8060' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Desktop\practise;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:50:49 GMT: Compiler call returned
+14 Jul 2018 10:50:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ca06b18
+14 Jul 2018 10:50:49 GMT:  Kind = WARNING
+14 Jul 2018 10:50:49 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:50:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5211ce1
+14 Jul 2018 10:50:49 GMT:  Kind = ERROR
+14 Jul 2018 10:50:49 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 5 ColNo = 15 Msg = 'Type mismatch: cannot convert from int[] to int'
+14 Jul 2018 10:50:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@36ca15aa
+14 Jul 2018 10:50:49 GMT:  Kind = ERROR
+14 Jul 2018 10:50:49 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 6 ColNo = 19 Msg = 'The primitive type int of array does not have a field length'
+14 Jul 2018 10:50:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@66a3459f
+14 Jul 2018 10:50:49 GMT:  Kind = ERROR
+14 Jul 2018 10:50:49 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 7 ColNo = 7 Msg = 'The type of the expression must be an array type but it resolved to int'
+14 Jul 2018 10:50:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19241af8
+14 Jul 2018 10:50:49 GMT:  Kind = ERROR
+14 Jul 2018 10:50:49 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 9 ColNo = 19 Msg = 'The primitive type int of array does not have a field length'
+14 Jul 2018 10:50:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14efcb29
+14 Jul 2018 10:50:49 GMT:  Kind = ERROR
+14 Jul 2018 10:50:49 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 10 ColNo = 23 Msg = 'The primitive type int of array does not have a field length'
+14 Jul 2018 10:50:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@72eeeb5b
+14 Jul 2018 10:50:49 GMT:  Kind = ERROR
+14 Jul 2018 10:50:49 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 11 ColNo = 12 Msg = 'The type of the expression must be an array type but it resolved to int'
+14 Jul 2018 10:50:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e1dd724
+14 Jul 2018 10:50:49 GMT:  Kind = ERROR
+14 Jul 2018 10:50:49 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 11 ColNo = 21 Msg = 'The type of the expression must be an array type but it resolved to int'
+14 Jul 2018 10:50:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@37d7ffc5
+14 Jul 2018 10:50:49 GMT:  Kind = ERROR
+14 Jul 2018 10:50:49 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 18 ColNo = 18 Msg = 'The primitive type int of array does not have a field length'
+14 Jul 2018 10:50:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d0bcc95
+14 Jul 2018 10:50:49 GMT:  Kind = ERROR
+14 Jul 2018 10:50:49 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 19 ColNo = 26 Msg = 'The type of the expression must be an array type but it resolved to int'
+14 Jul 2018 10:51:02 GMT: diagnostics = javax.tools.DiagnosticCollector@3f31ace7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@79f39dfb
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java, C:\Users\user\Desktop\practise\sadfklja.java]
+14 Jul 2018 10:51:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@679447f3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Desktop\practise;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:51:02 GMT: Compiler call returned
+14 Jul 2018 10:51:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4bfd9577
+14 Jul 2018 10:51:02 GMT:  Kind = WARNING
+14 Jul 2018 10:51:02 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:51:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4a423633
+14 Jul 2018 10:51:02 GMT:  Kind = WARNING
+14 Jul 2018 10:51:02 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+14 Jul 2018 10:51:45 GMT: diagnostics = javax.tools.DiagnosticCollector@66b8e03d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@212d5255
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java, C:\Users\user\Desktop\practise\sadfklja.java]
+14 Jul 2018 10:51:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@77b7ed33' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Desktop\practise;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:51:45 GMT: Compiler call returned
+14 Jul 2018 10:51:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67885654
+14 Jul 2018 10:51:45 GMT:  Kind = WARNING
+14 Jul 2018 10:51:45 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:51:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1edc8884
+14 Jul 2018 10:51:45 GMT:  Kind = WARNING
+14 Jul 2018 10:51:45 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+14 Jul 2018 10:51:56 GMT: diagnostics = javax.tools.DiagnosticCollector@43e4c732
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@475a5bc
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java, C:\Users\user\Desktop\practise\sadfklja.java]
+14 Jul 2018 10:51:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@23738fa7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Desktop\practise;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:51:56 GMT: Compiler call returned
+14 Jul 2018 10:51:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70415850
+14 Jul 2018 10:51:56 GMT:  Kind = WARNING
+14 Jul 2018 10:51:56 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 10:51:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@149b481b
+14 Jul 2018 10:51:56 GMT:  Kind = WARNING
+14 Jul 2018 10:51:56 GMT: Name = C:\Users\user\Desktop\practise\sadfklja.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+14 Jul 2018 10:53:20 GMT: diagnostics = javax.tools.DiagnosticCollector@3a0c72f9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f0c6915
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 10:53:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5136f24d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 10:53:20 GMT: Compiler call returned
+14 Jul 2018 10:53:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f5781cc
+14 Jul 2018 10:53:20 GMT:  Kind = WARNING
+14 Jul 2018 10:53:20 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:02:47 GMT: diagnostics = javax.tools.DiagnosticCollector@263126f3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6ac903da
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:02:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@35c1f613' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:02:47 GMT: Compiler call returned
+14 Jul 2018 11:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65d01b74
+14 Jul 2018 11:02:47 GMT:  Kind = WARNING
+14 Jul 2018 11:02:47 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@477d647f
+14 Jul 2018 11:02:47 GMT:  Kind = ERROR
+14 Jul 2018 11:02:47 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 42 ColNo = 20 Msg = 'i cannot be resolved to a variable'
+14 Jul 2018 11:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@53da40f
+14 Jul 2018 11:02:47 GMT:  Kind = ERROR
+14 Jul 2018 11:02:47 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 42 ColNo = 44 Msg = 'j cannot be resolved to a variable'
+14 Jul 2018 11:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55498e5c
+14 Jul 2018 11:02:47 GMT:  Kind = ERROR
+14 Jul 2018 11:02:47 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 43 ColNo = 32 Msg = 'i cannot be resolved to a variable'
+14 Jul 2018 11:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3027343a
+14 Jul 2018 11:02:47 GMT:  Kind = ERROR
+14 Jul 2018 11:02:47 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 44 ColNo = 19 Msg = 'i cannot be resolved to a variable'
+14 Jul 2018 11:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cd5f0dd
+14 Jul 2018 11:02:47 GMT:  Kind = ERROR
+14 Jul 2018 11:02:47 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 44 ColNo = 30 Msg = 'j cannot be resolved to a variable'
+14 Jul 2018 11:02:47 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74a02294
+14 Jul 2018 11:02:47 GMT:  Kind = ERROR
+14 Jul 2018 11:02:47 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 45 ColNo = 19 Msg = 'j cannot be resolved to a variable'
+14 Jul 2018 11:04:02 GMT: diagnostics = javax.tools.DiagnosticCollector@373042bf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@37583026
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:04:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5131f876' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:04:02 GMT: Compiler call returned
+14 Jul 2018 11:04:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@603fab76
+14 Jul 2018 11:04:02 GMT:  Kind = WARNING
+14 Jul 2018 11:04:02 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:04:17 GMT: diagnostics = javax.tools.DiagnosticCollector@598ab6df
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@418f3901
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:04:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e678df9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:04:17 GMT: Compiler call returned
+14 Jul 2018 11:04:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@657ff7d1
+14 Jul 2018 11:04:17 GMT:  Kind = WARNING
+14 Jul 2018 11:04:17 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:39:13 GMT: diagnostics = javax.tools.DiagnosticCollector@5d189889
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5559aa7c
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:39:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@70cb3a97' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:39:13 GMT: Compiler call returned
+14 Jul 2018 11:39:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ff0a7ab
+14 Jul 2018 11:39:13 GMT:  Kind = WARNING
+14 Jul 2018 11:39:13 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:39:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60935f5a
+14 Jul 2018 11:39:13 GMT:  Kind = ERROR
+14 Jul 2018 11:39:13 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 42 ColNo = 12 Msg = 'Cannot invoke compareTo(int) on the primitive type int'
+14 Jul 2018 11:40:01 GMT: diagnostics = javax.tools.DiagnosticCollector@4004d10d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f27ab4f
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:40:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6046b770' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:40:01 GMT: Compiler call returned
+14 Jul 2018 11:40:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@379e929c
+14 Jul 2018 11:40:01 GMT:  Kind = WARNING
+14 Jul 2018 11:40:01 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:40:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@21efd55e
+14 Jul 2018 11:40:01 GMT:  Kind = ERROR
+14 Jul 2018 11:40:01 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 42 ColNo = 12 Msg = 'Cannot invoke compareTo(int) on the primitive type int'
+14 Jul 2018 11:40:52 GMT: diagnostics = javax.tools.DiagnosticCollector@2a6419e7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@33e486ec
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:40:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6ec50590' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:40:52 GMT: Compiler call returned
+14 Jul 2018 11:40:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a3748ef
+14 Jul 2018 11:40:52 GMT:  Kind = WARNING
+14 Jul 2018 11:40:52 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:40:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@165f8961
+14 Jul 2018 11:40:52 GMT:  Kind = ERROR
+14 Jul 2018 11:40:52 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 42 ColNo = 12 Msg = 'Cannot invoke compareTo(int) on the primitive type int'
+14 Jul 2018 11:41:39 GMT: diagnostics = javax.tools.DiagnosticCollector@15874d56
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@747f9e0a
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:41:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3fbbb2a3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:41:39 GMT: Compiler call returned
+14 Jul 2018 11:41:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@354fea8e
+14 Jul 2018 11:41:39 GMT:  Kind = WARNING
+14 Jul 2018 11:41:39 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:46:39 GMT: diagnostics = javax.tools.DiagnosticCollector@30383113
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@44a95e08
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:46:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a5c2456' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:46:39 GMT: Compiler call returned
+14 Jul 2018 11:46:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f7a7bfd
+14 Jul 2018 11:46:39 GMT:  Kind = ERROR
+14 Jul 2018 11:46:39 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 60 ColNo = 3 Msg = 'Syntax error, insert "}" to complete ClassBody'
+14 Jul 2018 11:46:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33d54dfd
+14 Jul 2018 11:46:39 GMT:  Kind = WARNING
+14 Jul 2018 11:46:39 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:46:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2e1083f8
+14 Jul 2018 11:46:39 GMT:  Kind = ERROR
+14 Jul 2018 11:46:39 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 53 ColNo = 23 Msg = 'marks cannot be resolved or is not a field'
+14 Jul 2018 11:46:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18b95072
+14 Jul 2018 11:46:39 GMT:  Kind = ERROR
+14 Jul 2018 11:46:39 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 53 ColNo = 40 Msg = 'marks cannot be resolved or is not a field'
+14 Jul 2018 11:46:51 GMT: diagnostics = javax.tools.DiagnosticCollector@4ea42f3f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6b988fc4
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:46:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5713a505' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:46:51 GMT: Compiler call returned
+14 Jul 2018 11:46:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f6ee24d
+14 Jul 2018 11:46:51 GMT:  Kind = ERROR
+14 Jul 2018 11:46:51 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 60 ColNo = 3 Msg = 'Syntax error, insert "}" to complete ClassBody'
+14 Jul 2018 11:46:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@378f435f
+14 Jul 2018 11:46:51 GMT:  Kind = WARNING
+14 Jul 2018 11:46:51 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:47:02 GMT: diagnostics = javax.tools.DiagnosticCollector@1c0b566c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@60d83774
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:47:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5028824b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:47:02 GMT: Compiler call returned
+14 Jul 2018 11:47:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@67368698
+14 Jul 2018 11:47:02 GMT:  Kind = WARNING
+14 Jul 2018 11:47:02 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:48:13 GMT: diagnostics = javax.tools.DiagnosticCollector@595b9d4f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@293d26e9
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:48:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ab48617' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:48:13 GMT: Compiler call returned
+14 Jul 2018 11:48:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3af85ca0
+14 Jul 2018 11:48:13 GMT:  Kind = WARNING
+14 Jul 2018 11:48:13 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:50:14 GMT: diagnostics = javax.tools.DiagnosticCollector@77cb87e8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@57cf03ad
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:50:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@260f9f9e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:50:14 GMT: Compiler call returned
+14 Jul 2018 11:50:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@524366b1
+14 Jul 2018 11:50:14 GMT:  Kind = WARNING
+14 Jul 2018 11:50:14 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:59:31 GMT: diagnostics = javax.tools.DiagnosticCollector@517b1d26
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c91e466
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:59:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7580a95e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:59:31 GMT: Compiler call returned
+14 Jul 2018 11:59:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@272d2980
+14 Jul 2018 11:59:31 GMT:  Kind = WARNING
+14 Jul 2018 11:59:31 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:59:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7c729415
+14 Jul 2018 11:59:31 GMT:  Kind = ERROR
+14 Jul 2018 11:59:31 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 27 ColNo = 21 Msg = 'B cannot be resolved to a variable'
+14 Jul 2018 11:59:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@535ca574
+14 Jul 2018 11:59:31 GMT:  Kind = ERROR
+14 Jul 2018 11:59:31 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 28 ColNo = 28 Msg = 'The method compareTo(java.lang.String) in the type java.lang.String is not applicable for the arguments (Student)'
+14 Jul 2018 11:59:39 GMT: diagnostics = javax.tools.DiagnosticCollector@329e3a73
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@401f790e
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 11:59:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fe09e13' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 11:59:39 GMT: Compiler call returned
+14 Jul 2018 11:59:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@53931108
+14 Jul 2018 11:59:39 GMT:  Kind = WARNING
+14 Jul 2018 11:59:39 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 11:59:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ffe6248
+14 Jul 2018 11:59:39 GMT:  Kind = ERROR
+14 Jul 2018 11:59:39 GMT: Name = C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java LineNo = 28 ColNo = 28 Msg = 'The method compareTo(java.lang.String) in the type java.lang.String is not applicable for the arguments (Student)'
+14 Jul 2018 12:00:12 GMT: diagnostics = javax.tools.DiagnosticCollector@1bc3232b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ab0990d
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 12:00:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3a39c6ca' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 12:00:12 GMT: Compiler call returned
+14 Jul 2018 12:00:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3fd4aac7
+14 Jul 2018 12:00:12 GMT:  Kind = WARNING
+14 Jul 2018 12:00:12 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 12:00:26 GMT: diagnostics = javax.tools.DiagnosticCollector@5bbd8eb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7f18606b
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 12:00:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@41d34006' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 12:00:26 GMT: Compiler call returned
+14 Jul 2018 12:00:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64c366dd
+14 Jul 2018 12:00:26 GMT:  Kind = WARNING
+14 Jul 2018 12:00:26 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 12:03:56 GMT: diagnostics = javax.tools.DiagnosticCollector@6c7b7324
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4b1e4d1e
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\Manager.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java]
+14 Jul 2018 12:03:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3d1d73b2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 12:03:56 GMT: Compiler call returned
+14 Jul 2018 12:03:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40375da4
+14 Jul 2018 12:03:56 GMT:  Kind = WARNING
+14 Jul 2018 12:03:56 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 12:04:43 GMT: diagnostics = javax.tools.DiagnosticCollector@67abf857
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5ebaf878
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java, C:\Users\user\Desktop\lab8\Task01\Manager.java]
+14 Jul 2018 12:04:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@55a42818' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 12:04:43 GMT: Compiler call returned
+14 Jul 2018 12:04:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@112e3442
+14 Jul 2018 12:04:43 GMT:  Kind = WARNING
+14 Jul 2018 12:04:43 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 12:04:52 GMT: diagnostics = javax.tools.DiagnosticCollector@2adc02c3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2997e75c
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java, C:\Users\user\Desktop\lab8\Task01\Manager.java]
+14 Jul 2018 12:04:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5454e763' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 12:04:52 GMT: Compiler call returned
+14 Jul 2018 12:04:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4811a65f
+14 Jul 2018 12:04:52 GMT:  Kind = WARNING
+14 Jul 2018 12:04:52 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+14 Jul 2018 12:05:01 GMT: diagnostics = javax.tools.DiagnosticCollector@262c2ef0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@153ce775
+fileObjects = [C:\Users\user\Desktop\lab8\Task01\Student.java, C:\Users\user\Desktop\lab8\Task01\StudentDatabase.java, C:\Users\user\Desktop\lab8\Task01\Manager.java]
+14 Jul 2018 12:05:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1089cc6a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8\Task01;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 12:05:02 GMT: Compiler call returned
+14 Jul 2018 12:05:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3f4f438c
+14 Jul 2018 12:05:02 GMT:  Kind = WARNING
+14 Jul 2018 12:05:02 GMT: Name = C:\Users\user\Desktop\lab8\Task01\Manager.java LineNo = 4 ColNo = 17 Msg = 'Resource leak: 'k' is never closed'
+27 Aug 2018 16:51:55 GMT: Log 'EclipseCompiler.txt' opened: 27 Aug 2018 16:51:55 GMT with name D:\CSE Courses\CSE111\Labs solution\lab 8\Task01\EclipseCompiler.txt
+27 Aug 2018 16:57:41 GMT: diagnostics = javax.tools.DiagnosticCollector@1b3d5364
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@51e4b55b
+fileObjects = [D:\CSE Courses\CSE111\Labs solution\lab 8\Task03.java, D:\CSE Courses\CSE111\Labs solution\lab 8\Task04.java, D:\CSE Courses\CSE111\Labs solution\lab 8\task05.java, D:\CSE Courses\CSE111\Labs solution\lab 8\task6.java, D:\CSE Courses\CSE111\Labs solution\lab 8\task07.java, D:\CSE Courses\CSE111\Labs solution\lab 8\task08.java]
+27 Aug 2018 16:57:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7996becd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE Courses\CSE111\Labs solution\lab 8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Aug 2018 16:57:41 GMT: Compiler call returned
+27 Aug 2018 16:57:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c400ef5
+27 Aug 2018 16:57:41 GMT:  Kind = WARNING
+27 Aug 2018 16:57:41 GMT: Name = D:\CSE Courses\CSE111\Labs solution\lab 8\Task03.java LineNo = 13 ColNo = 13 Msg = 'Resource leak: 'k2' is never closed'
+27 Aug 2018 16:57:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e1ad461
+27 Aug 2018 16:57:41 GMT:  Kind = WARNING
+27 Aug 2018 16:57:41 GMT: Name = D:\CSE Courses\CSE111\Labs solution\lab 8\Task03.java LineNo = 20 ColNo = 13 Msg = 'Resource leak: 'k3' is never closed'
+27 Aug 2018 16:57:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@527154f1
+27 Aug 2018 16:57:41 GMT:  Kind = WARNING
+27 Aug 2018 16:57:41 GMT: Name = D:\CSE Courses\CSE111\Labs solution\lab 8\Task03.java LineNo = 5 ColNo = 13 Msg = 'Resource leak: 'k' is never closed'
+27 Aug 2018 16:57:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8efc79d
+27 Aug 2018 16:57:41 GMT:  Kind = WARNING
+27 Aug 2018 16:57:41 GMT: Name = D:\CSE Courses\CSE111\Labs solution\lab 8\task6.java LineNo = 17 ColNo = 13 Msg = 'Resource leak: 'sn' is never closed'
+27 Aug 2018 17:56:30 GMT: diagnostics = javax.tools.DiagnosticCollector@69c93958
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@65789390
+fileObjects = [D:\CSE Courses\CSE111\Labs solution\lab 9\task1\circle.java, D:\CSE Courses\CSE111\Labs solution\lab 9\task1\Point.java, D:\CSE Courses\CSE111\Labs solution\lab 9\task1\sphere.java, D:\CSE Courses\CSE111\Labs solution\lab 9\task1\tester.java]
+27 Aug 2018 17:56:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7ff5804b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE Courses\CSE111\Labs solution\lab 9\task1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Aug 2018 17:56:30 GMT: Compiler call returned
+27 Aug 2018 17:56:44 GMT: diagnostics = javax.tools.DiagnosticCollector@7c09aa7e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bc2a135
+fileObjects = [D:\CSE Courses\CSE111\Labs solution\lab 9\task1\circle.java, D:\CSE Courses\CSE111\Labs solution\lab 9\task1\Point.java, D:\CSE Courses\CSE111\Labs solution\lab 9\task1\sphere.java, D:\CSE Courses\CSE111\Labs solution\lab 9\task1\tester.java]
+27 Aug 2018 17:56:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@69ae31f4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE Courses\CSE111\Labs solution\lab 9\task1;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Aug 2018 17:56:44 GMT: Compiler call returned
+27 Aug 2018 18:02:18 GMT: diagnostics = javax.tools.DiagnosticCollector@5d786d86
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a144bbe
+fileObjects = [C:\Users\user\Desktop\cse exam\Student.java, C:\Users\user\Desktop\cse exam\TestStudent.java, C:\Users\user\Desktop\cse exam\BBAStudent.java]
+27 Aug 2018 18:02:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@38f2da98' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\cse exam;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Aug 2018 18:02:18 GMT: Compiler call returned
+27 Aug 2018 18:02:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15f4a10f
+27 Aug 2018 18:02:18 GMT:  Kind = ERROR
+27 Aug 2018 18:02:18 GMT: Name = C:\Users\user\Desktop\cse exam\TestStudent.java LineNo = 6 ColNo = 5 Msg = 'The method printName(Student) in the type TestStudent is not applicable for the arguments (BBAStudent)'
+27 Aug 2018 18:02:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cbd90c0
+27 Aug 2018 18:02:18 GMT:  Kind = ERROR
+27 Aug 2018 18:02:18 GMT: Name = C:\Users\user\Desktop\cse exam\TestStudent.java LineNo = 7 ColNo = 5 Msg = 'The method printName(Student) in the type TestStudent is not applicable for the arguments (BBAStudent)'
+27 Aug 2018 18:02:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6836127a
+27 Aug 2018 18:02:18 GMT:  Kind = ERROR
+27 Aug 2018 18:02:18 GMT: Name = C:\Users\user\Desktop\cse exam\TestStudent.java LineNo = 8 ColNo = 5 Msg = 'The method printName(Student) in the type TestStudent is not applicable for the arguments (BBAStudent)'
+27 Aug 2018 18:02:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@734a36c8
+27 Aug 2018 18:02:18 GMT:  Kind = ERROR
+27 Aug 2018 18:02:18 GMT: Name = C:\Users\user\Desktop\cse exam\BBAStudent.java LineNo = 3 ColNo = 9 Msg = 'The method setDepartment(java.lang.String) is undefined for the type java.lang.Object'
+27 Aug 2018 18:02:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43860d77
+27 Aug 2018 18:02:18 GMT:  Kind = ERROR
+27 Aug 2018 18:02:18 GMT: Name = C:\Users\user\Desktop\cse exam\BBAStudent.java LineNo = 4 ColNo = 9 Msg = 'The method setName(java.lang.String) is undefined for the type java.lang.Object'
+27 Aug 2018 18:02:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@334dbe57
+27 Aug 2018 18:02:18 GMT:  Kind = ERROR
+27 Aug 2018 18:02:18 GMT: Name = C:\Users\user\Desktop\cse exam\BBAStudent.java LineNo = 7 ColNo = 9 Msg = 'The method setName(java.lang.String) is undefined for the type java.lang.Object'
+27 Aug 2018 18:02:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bb0df86
+27 Aug 2018 18:02:18 GMT:  Kind = ERROR
+27 Aug 2018 18:02:18 GMT: Name = C:\Users\user\Desktop\cse exam\BBAStudent.java LineNo = 8 ColNo = 9 Msg = 'The method setDepartment(java.lang.String) is undefined for the type java.lang.Object'
+27 Aug 2018 18:02:42 GMT: diagnostics = javax.tools.DiagnosticCollector@20bfdccb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@43189ac8
+fileObjects = [C:\Users\user\Desktop\cse exam\Student.java, C:\Users\user\Desktop\cse exam\TestStudent.java, C:\Users\user\Desktop\cse exam\BBAStudent.java]
+27 Aug 2018 18:02:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7640c0ab' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\cse exam;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Aug 2018 18:02:42 GMT: Compiler call returned
+27 Aug 2018 18:04:35 GMT: diagnostics = javax.tools.DiagnosticCollector@1ad4e8b5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@438c66f7
+fileObjects = [C:\Users\user\Desktop\cse exam\TestStudent.java, C:\Users\user\Desktop\cse exam\BBAStudent.java, C:\Users\user\Desktop\cse exam\Student.java]
+27 Aug 2018 18:04:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@598ba5d5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\cse exam;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Aug 2018 18:04:35 GMT: Compiler call returned
+27 Aug 2018 18:04:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4fc51671
+27 Aug 2018 18:04:35 GMT:  Kind = ERROR
+27 Aug 2018 18:04:35 GMT: Name = C:\Users\user\Desktop\cse exam\BBAStudent.java LineNo = 4 ColNo = 9 Msg = 'The method setName(java.lang.String) from the type Student is not visible'
+27 Aug 2018 18:04:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@248b5d79
+27 Aug 2018 18:04:35 GMT:  Kind = ERROR
+27 Aug 2018 18:04:35 GMT: Name = C:\Users\user\Desktop\cse exam\BBAStudent.java LineNo = 7 ColNo = 9 Msg = 'The method setName(java.lang.String) from the type Student is not visible'
+27 Aug 2018 18:04:48 GMT: diagnostics = javax.tools.DiagnosticCollector@658ce6a6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@350d3722
+fileObjects = [C:\Users\user\Desktop\cse exam\TestStudent.java, C:\Users\user\Desktop\cse exam\BBAStudent.java, C:\Users\user\Desktop\cse exam\Student.java]
+27 Aug 2018 18:04:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@470cf5f5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\cse exam;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+27 Aug 2018 18:04:48 GMT: Compiler call returned

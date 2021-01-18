@@ -1,0 +1,156 @@
+14 Jul 2018 14:19:17 GMT: Log 'EclipseCompiler.txt' opened: 14 Jul 2018 14:19:17 GMT with name C:\Users\user\Desktop\lab8\EclipseCompiler.txt
+14 Jul 2018 14:19:43 GMT: diagnostics = javax.tools.DiagnosticCollector@5b7424e2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7a97bf9a
+fileObjects = [C:\Users\user\Desktop\lab8\Lab10Task03.java, C:\Users\user\Desktop\lab8\task08.java]
+14 Jul 2018 14:19:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5444eba8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 14:19:44 GMT: Compiler call returned
+14 Jul 2018 17:29:28 GMT: Log 'EclipseCompiler.txt' opened: 14 Jul 2018 17:29:28 GMT with name C:\Users\user\Desktop\lab8\EclipseCompiler.txt
+14 Jul 2018 17:36:16 GMT: diagnostics = javax.tools.DiagnosticCollector@3245700e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2a0554d6
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 17:36:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@25c9b885' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:36:17 GMT: Compiler call returned
+14 Jul 2018 17:36:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5dc4804a
+14 Jul 2018 17:36:17 GMT:  Kind = WARNING
+14 Jul 2018 17:36:17 GMT: Name = C:\Users\user\Desktop\lab8\task6.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+14 Jul 2018 17:37:57 GMT: diagnostics = javax.tools.DiagnosticCollector@3f19d0da
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17e8cb5b
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 17:37:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7466d63f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:37:57 GMT: Compiler call returned
+14 Jul 2018 17:37:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ea0770a
+14 Jul 2018 17:37:57 GMT:  Kind = WARNING
+14 Jul 2018 17:37:57 GMT: Name = C:\Users\user\Desktop\lab8\task6.java LineNo = 4 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+14 Jul 2018 17:38:10 GMT: diagnostics = javax.tools.DiagnosticCollector@775c538c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@62b83143
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 17:38:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4c6d5f6c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:38:10 GMT: Compiler call returned
+14 Jul 2018 17:38:49 GMT: diagnostics = javax.tools.DiagnosticCollector@5c972ba1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@61f72384
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 17:38:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@74a60ca2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:38:49 GMT: Compiler call returned
+14 Jul 2018 17:43:44 GMT: diagnostics = javax.tools.DiagnosticCollector@587d6957
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5c41dda7
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 17:43:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@65787a48' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:43:44 GMT: Compiler call returned
+14 Jul 2018 17:44:49 GMT: diagnostics = javax.tools.DiagnosticCollector@82eec6c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7b7b90c9
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 17:44:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@37ac7674' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:44:49 GMT: Compiler call returned
+14 Jul 2018 17:44:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1170f841
+14 Jul 2018 17:44:49 GMT:  Kind = ERROR
+14 Jul 2018 17:44:49 GMT: Name = C:\Users\user\Desktop\lab8\task6.java LineNo = 24 ColNo = 10 Msg = 'count cannot be resolved to a variable'
+14 Jul 2018 17:45:53 GMT: diagnostics = javax.tools.DiagnosticCollector@6cd5e9fe
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@136a1dc6
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 17:45:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1bd2e445' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:45:53 GMT: Compiler call returned
+14 Jul 2018 17:48:06 GMT: diagnostics = javax.tools.DiagnosticCollector@6db700a2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1fc3baae
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 17:48:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4baea37b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:48:07 GMT: Compiler call returned
+14 Jul 2018 17:50:03 GMT: diagnostics = javax.tools.DiagnosticCollector@5ad888b9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d0fa1ec
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 17:50:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@669c4380' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:50:03 GMT: Compiler call returned
+14 Jul 2018 17:53:42 GMT: diagnostics = javax.tools.DiagnosticCollector@5f9d782
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f1a7f54
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java, C:\Users\user\Desktop\practise\sdfkjl.java]
+14 Jul 2018 17:53:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5daab1b5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Desktop\practise;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:53:42 GMT: Compiler call returned
+14 Jul 2018 17:53:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2250e0f8
+14 Jul 2018 17:53:42 GMT:  Kind = ERROR
+14 Jul 2018 17:53:42 GMT: Name = C:\Users\user\Desktop\practise\sdfkjl.java LineNo = 3 ColNo = 9 Msg = 'sc cannot be resolved'
+14 Jul 2018 17:53:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cc3c63d
+14 Jul 2018 17:53:42 GMT:  Kind = ERROR
+14 Jul 2018 17:53:42 GMT: Name = C:\Users\user\Desktop\practise\sdfkjl.java LineNo = 6 ColNo = 11 Msg = 'sum cannot be resolved to a variable'
+14 Jul 2018 17:53:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@45ccb62f
+14 Jul 2018 17:53:42 GMT:  Kind = ERROR
+14 Jul 2018 17:53:42 GMT: Name = C:\Users\user\Desktop\practise\sdfkjl.java LineNo = 6 ColNo = 15 Msg = 'sum cannot be resolved to a variable'
+14 Jul 2018 17:53:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d8173f3
+14 Jul 2018 17:53:42 GMT:  Kind = ERROR
+14 Jul 2018 17:53:42 GMT: Name = C:\Users\user\Desktop\practise\sdfkjl.java LineNo = 8 ColNo = 24 Msg = 'sum cannot be resolved to a variable'
+14 Jul 2018 17:53:55 GMT: diagnostics = javax.tools.DiagnosticCollector@2836d4ca
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@79872d2e
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java, C:\Users\user\Desktop\practise\sdfkjl.java]
+14 Jul 2018 17:53:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a480674' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Desktop\practise;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:53:55 GMT: Compiler call returned
+14 Jul 2018 17:53:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7934e47
+14 Jul 2018 17:53:55 GMT:  Kind = ERROR
+14 Jul 2018 17:53:55 GMT: Name = C:\Users\user\Desktop\practise\sdfkjl.java LineNo = 6 ColNo = 11 Msg = 'sum cannot be resolved to a variable'
+14 Jul 2018 17:53:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cc0dd32
+14 Jul 2018 17:53:55 GMT:  Kind = ERROR
+14 Jul 2018 17:53:55 GMT: Name = C:\Users\user\Desktop\practise\sdfkjl.java LineNo = 6 ColNo = 15 Msg = 'sum cannot be resolved to a variable'
+14 Jul 2018 17:53:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6525c8ce
+14 Jul 2018 17:53:55 GMT:  Kind = ERROR
+14 Jul 2018 17:53:55 GMT: Name = C:\Users\user\Desktop\practise\sdfkjl.java LineNo = 8 ColNo = 24 Msg = 'sum cannot be resolved to a variable'
+14 Jul 2018 17:54:09 GMT: diagnostics = javax.tools.DiagnosticCollector@4451b935
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f684510
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java, C:\Users\user\Desktop\practise\sdfkjl.java]
+14 Jul 2018 17:54:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@433d3da0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Desktop\practise;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:54:09 GMT: Compiler call returned
+14 Jul 2018 17:58:15 GMT: diagnostics = javax.tools.DiagnosticCollector@66d3879f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@60bf12a5
+fileObjects = [C:\Users\user\Desktop\practise\sdfkjl.java, C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 17:58:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@38849d82' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\practise;C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 17:58:15 GMT: Compiler call returned
+14 Jul 2018 18:00:28 GMT: diagnostics = javax.tools.DiagnosticCollector@225dc866
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@43062145
+fileObjects = [C:\Users\user\Desktop\practise\sdfkjl.java, C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 18:00:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@77ba3a8c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\practise;C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 18:00:28 GMT: Compiler call returned
+14 Jul 2018 18:03:43 GMT: diagnostics = javax.tools.DiagnosticCollector@7dd46bb6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2ca34043
+fileObjects = [C:\Users\user\Desktop\practise\sdfkjl.java, C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 18:03:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@49324184' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\practise;C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 18:03:43 GMT: Compiler call returned
+14 Jul 2018 18:03:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@136b33ae
+14 Jul 2018 18:03:43 GMT:  Kind = WARNING
+14 Jul 2018 18:03:43 GMT: Name = C:\Users\user\Desktop\lab8\task6.java LineNo = 17 ColNo = 13 Msg = 'Resource leak: 'sn' is never closed'
+14 Jul 2018 18:05:07 GMT: diagnostics = javax.tools.DiagnosticCollector@2688b87
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7dbfd145
+fileObjects = [C:\Users\user\Desktop\practise\sdfkjl.java, C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 18:05:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@69ccfec1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\practise;C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 18:05:07 GMT: Compiler call returned
+14 Jul 2018 18:05:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ca6122b
+14 Jul 2018 18:05:07 GMT:  Kind = WARNING
+14 Jul 2018 18:05:07 GMT: Name = C:\Users\user\Desktop\lab8\task6.java LineNo = 17 ColNo = 13 Msg = 'Resource leak: 'sn' is never closed'
+14 Jul 2018 18:05:09 GMT: diagnostics = javax.tools.DiagnosticCollector@58ba405c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@38fe1898
+fileObjects = [C:\Users\user\Desktop\practise\sdfkjl.java, C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 18:05:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@305ff195' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\practise;C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 18:05:09 GMT: Compiler call returned
+14 Jul 2018 18:05:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f87941b
+14 Jul 2018 18:05:09 GMT:  Kind = WARNING
+14 Jul 2018 18:05:09 GMT: Name = C:\Users\user\Desktop\lab8\task6.java LineNo = 17 ColNo = 13 Msg = 'Resource leak: 'sn' is never closed'
+14 Jul 2018 18:07:23 GMT: Log 'EclipseCompiler.txt' opened: 14 Jul 2018 18:07:23 GMT with name C:\Users\user\Desktop\lab8\EclipseCompiler.txt
+14 Jul 2018 18:07:49 GMT: diagnostics = javax.tools.DiagnosticCollector@5ae01af0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dd4aa47
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 18:07:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16a0d11' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 18:07:50 GMT: Compiler call returned
+14 Jul 2018 18:07:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d159bdd
+14 Jul 2018 18:07:50 GMT:  Kind = WARNING
+14 Jul 2018 18:07:50 GMT: Name = C:\Users\user\Desktop\lab8\task6.java LineNo = 17 ColNo = 13 Msg = 'Resource leak: 'sn' is never closed'
+14 Jul 2018 18:09:01 GMT: diagnostics = javax.tools.DiagnosticCollector@57c2bb4e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2f0a502b
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 18:09:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12c6410f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 18:09:01 GMT: Compiler call returned
+14 Jul 2018 18:09:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@730df0ae
+14 Jul 2018 18:09:01 GMT:  Kind = ERROR
+14 Jul 2018 18:09:01 GMT: Name = C:\Users\user\Desktop\lab8\task6.java LineNo = 18 ColNo = 15 Msg = 'sc cannot be resolved'
+14 Jul 2018 18:09:10 GMT: diagnostics = javax.tools.DiagnosticCollector@60eed2da
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4e909a10
+fileObjects = [C:\Users\user\Desktop\lab8\task6.java]
+14 Jul 2018 18:09:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ba801fb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab8;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+14 Jul 2018 18:09:10 GMT: Compiler call returned
+14 Jul 2018 18:09:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6bcb118b
+14 Jul 2018 18:09:10 GMT:  Kind = WARNING
+14 Jul 2018 18:09:10 GMT: Name = C:\Users\user\Desktop\lab8\task6.java LineNo = 17 ColNo = 13 Msg = 'Resource leak: 'sn' is never closed'
