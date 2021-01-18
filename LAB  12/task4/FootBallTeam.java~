@@ -1,0 +1,8 @@
+class FootBallTeam{
+  FootBallTeam(String a,String b){
+  super(a,b);
+  }
+  public String toString(){
+  return "Our name is "+super.name;
+  }
+}
