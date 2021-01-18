@@ -1,0 +1,28 @@
+import java.util.Scanner;
+public class task10
+{
+  public static void main(String[]args)
+  {
+    Scanner sc=new Scanner(System.in);
+    int col=sc.nextInt();
+    for(int a=col;a>=1;a--)
+    {
+      for(int b=1;b<=a-1;b++)
+      {
+        System.out.print(" ");
+      }
+      for(int c=a;c<=col;c++)
+      {
+        if(c==a || c==col || a==1)
+        {
+          System.out.print(c);
+        }
+        else
+        {
+          System.out.print(" ");
+        }
+      }
+      System.out.println();
+    }
+  }
+}
