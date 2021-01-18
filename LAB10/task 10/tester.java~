@@ -1,0 +1,14 @@
+public StInterface extends Student{
+  public void setName(String a){
+  name=a;
+  }
+  public void setID(int b){
+  id=b;
+  }
+  public String getName(){
+  return name;
+  }
+  public int getID(){
+  return id;
+  }
+}
