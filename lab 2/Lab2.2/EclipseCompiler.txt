@@ -1,0 +1,83 @@
+19 May 2018 5:30:44 GMT: Log 'EclipseCompiler.txt' opened: 19 May 2018 5:30:44 GMT with name D:\CSE111\Labs solution\lab 2\Lab2.2\EclipseCompiler.txt
+19 May 2018 5:30:51 GMT: diagnostics = javax.tools.DiagnosticCollector@1e5efdd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2e9f1c
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java]
+19 May 2018 5:30:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@198d88d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 May 2018 5:30:52 GMT: Compiler call returned
+19 May 2018 5:48:21 GMT: diagnostics = javax.tools.DiagnosticCollector@120cd58
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b9762e
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java]
+19 May 2018 5:48:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@bd584' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 May 2018 5:48:21 GMT: Compiler call returned
+19 May 2018 5:48:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14bf3f0
+19 May 2018 5:48:21 GMT:  Kind = WARNING
+19 May 2018 5:48:21 GMT: Name = D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+19 May 2018 5:48:35 GMT: diagnostics = javax.tools.DiagnosticCollector@b510ac
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@451e6a
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java]
+19 May 2018 5:48:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@750425' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 May 2018 5:48:35 GMT: Compiler call returned
+19 May 2018 8:29:50 GMT: diagnostics = javax.tools.DiagnosticCollector@18da481
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@115b42b
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java]
+19 May 2018 8:29:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5f8482' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 May 2018 8:29:50 GMT: Compiler call returned
+19 May 2018 8:29:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11fd43e
+19 May 2018 8:29:50 GMT:  Kind = WARNING
+19 May 2018 8:29:50 GMT: Name = D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+19 May 2018 8:30:01 GMT: diagnostics = javax.tools.DiagnosticCollector@1b19115
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ec13cd
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java]
+19 May 2018 8:30:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1087b4e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 May 2018 8:30:02 GMT: Compiler call returned
+19 May 2018 8:37:23 GMT: diagnostics = javax.tools.DiagnosticCollector@811eba
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f14e5a
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java]
+19 May 2018 8:37:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cb7dee' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 May 2018 8:37:23 GMT: Compiler call returned
+19 May 2018 8:37:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8accb1
+19 May 2018 8:37:23 GMT:  Kind = WARNING
+19 May 2018 8:37:23 GMT: Name = D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+19 May 2018 8:37:37 GMT: diagnostics = javax.tools.DiagnosticCollector@128f0cf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@100ef7b
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java]
+19 May 2018 8:37:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@817d33' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 May 2018 8:37:38 GMT: Compiler call returned
+19 May 2018 8:37:47 GMT: diagnostics = javax.tools.DiagnosticCollector@1594d25
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f7d229
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java]
+19 May 2018 8:37:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f521af' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 May 2018 8:37:47 GMT: Compiler call returned
+19 May 2018 9:19:14 GMT: diagnostics = javax.tools.DiagnosticCollector@5afa71
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1152822
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task4.java]
+19 May 2018 9:19:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e3b0a9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 May 2018 9:19:15 GMT: Compiler call returned
+19 May 2018 10:34:21 GMT: diagnostics = javax.tools.DiagnosticCollector@31fc29
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b3149a
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task4.java]
+19 May 2018 10:34:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2942f3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+19 May 2018 10:34:22 GMT: Compiler call returned
+22 May 2018 15:16:17 GMT: Log 'EclipseCompiler.txt' opened: 22 May 2018 15:16:17 GMT with name D:\CSE111\Labs solution\lab 2\Lab2.2\EclipseCompiler.txt
+22 May 2018 19:56:24 GMT: Log 'EclipseCompiler.txt' opened: 22 May 2018 19:56:24 GMT with name D:\CSE111\Labs solution\lab 2\Lab2.2\EclipseCompiler.txt
+22 May 2018 19:57:30 GMT: diagnostics = javax.tools.DiagnosticCollector@2c5b9dee
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@521ce7ac
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task4.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task5.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task6.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task7.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task8.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task9.java, D:\CSE111\Labs solution\lab 2\Lab2.2\tsak10.java]
+22 May 2018 19:57:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4488aabb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 May 2018 19:57:31 GMT: Compiler call returned
+22 May 2018 19:57:35 GMT: diagnostics = javax.tools.DiagnosticCollector@34023cb1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@57a5b1b
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task4.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task5.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task6.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task7.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task8.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task9.java, D:\CSE111\Labs solution\lab 2\Lab2.2\tsak10.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java]
+22 May 2018 19:57:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1219b871' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 May 2018 19:57:35 GMT: Compiler call returned
+22 May 2018 19:58:00 GMT: diagnostics = javax.tools.DiagnosticCollector@60b1799a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2e4e3a1b
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task4.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task5.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task6.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task7.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task8.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task9.java, D:\CSE111\Labs solution\lab 2\Lab2.2\tsak10.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java]
+22 May 2018 19:58:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15f00127' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 May 2018 19:58:00 GMT: Compiler call returned
+22 May 2018 19:58:32 GMT: diagnostics = javax.tools.DiagnosticCollector@19b50bf0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@713bacb1
+fileObjects = [D:\CSE111\Labs solution\lab 2\Lab2.2\task1.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task3.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task4.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task5.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task6.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task7.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task8.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task9.java, D:\CSE111\Labs solution\lab 2\Lab2.2\tsak10.java, D:\CSE111\Labs solution\lab 2\Lab2.2\task2.java]
+22 May 2018 19:58:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@7f7677c7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE111\Labs solution\lab 2\Lab2.2;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+22 May 2018 19:58:32 GMT: Compiler call returned
+22 May 2018 20:29:23 GMT: Log 'EclipseCompiler.txt' opened: 22 May 2018 20:29:23 GMT with name D:\CSE111\Labs solution\lab 2\Lab2.2\EclipseCompiler.txt

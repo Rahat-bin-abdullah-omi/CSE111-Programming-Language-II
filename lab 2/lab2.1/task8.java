@@ -1,0 +1,33 @@
+import java.util.Scanner;
+public class task8 {
+  public static void main(String[] args) {
+    Scanner sc=new Scanner(System.in);
+    int[] array=new int[10];
+    for(int a=0;a<array.length;a++)
+    {
+      int n=sc.nextInt();
+      int count=0;
+      for(int b=0;b<array.length;b++)
+      {
+        if(array[b]==n)
+        {
+          count++;
+        }
+      }
+      if(count>0)
+      {
+        System.out.println("wrong input, try another number");
+        a--;
+      }
+      else
+      {
+        array[a]=n;
+      }
+    }
+    for(int a=0;a<array.length;a++)
+    {
+      System.out.println(array[a]);
+    }
+    sc.close();
+  }
+}

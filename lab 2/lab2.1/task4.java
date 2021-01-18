@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class task4 {
+  public static void main(String[] args) {
+    Scanner sc=new Scanner(System.in);
+    int[] array=new int[20];
+    for(int a=0;a<array.length;a++)
+    {
+      array[a]=sc.nextInt();
+    }
+    for(int a=array.length-1;a>=0;a--)
+    {
+      if(array[a]%2==0)
+      {
+        System.out.println(array[a]);
+      }
+    }
+    sc.close();
+  }
+}

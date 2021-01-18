@@ -1,0 +1,32 @@
+import java.util.Scanner;
+public class task6 {
+  public static void main(String[] args) {
+    Scanner sc=new Scanner(System.in);
+    int[] array=new int[15];
+    int[] array1=new int[10];
+    for(int a=0;a<array.length;a++)
+    {
+      array[a]=sc.nextInt();
+      if(array[a]<0 || array[a]>9)
+      {
+         System.out.println("Out of Range, try another number");
+         a--;
+      }
+    }
+    for(int a=0;a<array1.length;a++)
+    {
+      for(int b=0;b<array.length;b++)
+      {
+        if(array[b]==a)
+        {
+          array1[a]=array1[a]+1;
+        }
+      }
+    }
+    for(int a=0;a<array1.length;a++)
+    {
+      System.out.println(a + " has been entered for "+array1[a]+" times");
+    }
+    sc.close();
+  }
+}
