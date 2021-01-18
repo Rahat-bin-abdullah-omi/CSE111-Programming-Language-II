@@ -1,0 +1,12 @@
+18 Jul 2018 17:03:48 GMT: Log 'EclipseCompiler.txt' opened: 18 Jul 2018 17:03:48 GMT with name C:\Users\user\Desktop\lab 9 old\EclipseCompiler.txt
+18 Jul 2018 17:03:59 GMT: diagnostics = javax.tools.DiagnosticCollector@6b224ef5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14bef482
+fileObjects = [C:\Users\user\AppData\Local\Temp\Rar$DIa0.335\Fruit.java, C:\Users\user\AppData\Local\Temp\Rar$DIa0.972\Jackfruit.java, C:\Users\user\AppData\Local\Temp\Rar$DIa0.085\Mango.java, C:\Users\user\AppData\Local\Temp\Rar$DIa0.277\Test.java]
+18 Jul 2018 17:03:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4be1b88d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\AppData\Local\Temp\Rar$DIa0.335;C:\Users\user\AppData\Local\Temp\Rar$DIa0.972;C:\Users\user\AppData\Local\Temp\Rar$DIa0.085;C:\Users\user\AppData\Local\Temp\Rar$DIa0.277;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+18 Jul 2018 17:03:59 GMT: Compiler call returned
+18 Jul 2018 17:04:50 GMT: Log 'EclipseCompiler.txt' opened: 18 Jul 2018 17:04:50 GMT with name C:\Users\user\Desktop\lab 9 old\EclipseCompiler.txt
+18 Jul 2018 17:05:01 GMT: diagnostics = javax.tools.DiagnosticCollector@183400c2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3949cfd7
+fileObjects = [C:\Users\user\AppData\Local\Temp\Rar$DIa0.893\Account.java, C:\Users\user\AppData\Local\Temp\Rar$DIa0.998\CheckingAccount.java, C:\Users\user\AppData\Local\Temp\Rar$DIa0.339\TestAccount.java]
+18 Jul 2018 17:05:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5258749d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\AppData\Local\Temp\Rar$DIa0.893;C:\Users\user\AppData\Local\Temp\Rar$DIa0.998;C:\Users\user\AppData\Local\Temp\Rar$DIa0.339;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+18 Jul 2018 17:05:02 GMT: Compiler call returned

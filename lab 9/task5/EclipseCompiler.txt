@@ -1,0 +1,18 @@
+18 Jul 2018 17:54:26 GMT: Log 'EclipseCompiler.txt' opened: 18 Jul 2018 17:54:26 GMT with name C:\Users\user\Desktop\lab 9 old\task5\EclipseCompiler.txt
+18 Jul 2018 17:54:26 GMT: Log 'EclipseCompiler.txt' opened: 18 Jul 2018 17:54:26 GMT with name C:\Users\user\Desktop\lab 9 old\task5\EclipseCompiler.txt
+18 Jul 2018 17:55:28 GMT: diagnostics = javax.tools.DiagnosticCollector@2c36f5e1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@73552669
+fileObjects = [C:\Users\user\Desktop\lab 9 old\task5\Account.java, C:\Users\user\Desktop\lab 9 old\task5\TestAccount.java, C:\Users\user\Desktop\lab 9 old\task5\CheckingAccount.java]
+18 Jul 2018 17:55:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4c84d0c7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 9 old\task5;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+18 Jul 2018 17:55:29 GMT: Compiler call returned
+18 Jul 2018 17:57:35 GMT: diagnostics = javax.tools.DiagnosticCollector@9801473
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@33713481
+fileObjects = [C:\Users\user\Desktop\lab 9 old\task5\Account.java, C:\Users\user\Desktop\lab 9 old\task5\TestAccount.java, C:\Users\user\Desktop\lab 9 old\task5\CheckingAccount.java]
+18 Jul 2018 17:57:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a196f8b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\lab 9 old\task5;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+18 Jul 2018 17:57:35 GMT: Compiler call returned
+18 Jul 2018 17:57:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16baeca2
+18 Jul 2018 17:57:35 GMT:  Kind = ERROR
+18 Jul 2018 17:57:35 GMT: Name = C:\Users\user\Desktop\lab 9 old\task5\TestAccount.java LineNo = 7 ColNo = 58 Msg = 'Cannot make a static reference to the non-static field CheckingAccount.numberOfAccount'
+18 Jul 2018 17:57:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@39eea076
+18 Jul 2018 17:57:35 GMT:  Kind = ERROR
+18 Jul 2018 17:57:35 GMT: Name = C:\Users\user\Desktop\lab 9 old\task5\TestAccount.java LineNo = 11 ColNo = 58 Msg = 'Cannot make a static reference to the non-static field CheckingAccount.numberOfAccount'
