@@ -1,0 +1,14 @@
+4 Jul 2018 17:27:45 GMT: Log 'EclipseCompiler.txt' opened: 4 Jul 2018 17:27:45 GMT with name C:\Users\user\Desktop\Lab06\Untitled Folder\Task 7\EclipseCompiler.txt
+4 Jul 2018 17:27:55 GMT: diagnostics = javax.tools.DiagnosticCollector@24a11141
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15338927
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 7\Dog.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 7\Quiz.java]
+4 Jul 2018 17:27:55 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a0cb34f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 7;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 17:27:55 GMT: Compiler call returned
+4 Jul 2018 17:27:55 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46d50f56
+4 Jul 2018 17:27:55 GMT:  Kind = WARNING
+4 Jul 2018 17:27:55 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 7\Dog.java LineNo = 2 ColNo = 16 Msg = 'The value of the field Dog.color is not used'
+4 Jul 2018 17:28:36 GMT: diagnostics = javax.tools.DiagnosticCollector@4acc9850
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@22b8902d
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 7\Quiz.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 7\Dog.java]
+4 Jul 2018 17:28:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2100f8df' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 7;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 17:28:36 GMT: Compiler call returned

@@ -1,0 +1,13 @@
+public class Teacher{
+  String name;
+  String dpt;
+  int index=1;
+  String[] subject=new String[index];
+  public Teacher(String a,String b){
+    name=a;
+    dpt=b;
+  }
+  public void addCourse(Course c){
+    subject[index-1]=c.sub;
+  }
+} 

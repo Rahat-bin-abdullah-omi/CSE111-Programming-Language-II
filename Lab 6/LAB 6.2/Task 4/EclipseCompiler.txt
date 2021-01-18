@@ -1,0 +1,104 @@
+4 Jul 2018 15:07:43 GMT: Log 'EclipseCompiler.txt' opened: 4 Jul 2018 15:07:43 GMT with name C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\EclipseCompiler.txt
+4 Jul 2018 15:08:03 GMT: diagnostics = javax.tools.DiagnosticCollector@7a42805c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@465a2c77
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java]
+4 Jul 2018 15:08:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1bcbd578' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:08:03 GMT: Compiler call returned
+4 Jul 2018 15:08:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58ed50cf
+4 Jul 2018 15:08:03 GMT:  Kind = ERROR
+4 Jul 2018 15:08:03 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java LineNo = 22 ColNo = 8 Msg = 'The method printDetail() is undefined for the type Teacher'
+4 Jul 2018 15:08:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@45fb700c
+4 Jul 2018 15:08:03 GMT:  Kind = ERROR
+4 Jul 2018 15:08:03 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java LineNo = 23 ColNo = 8 Msg = 'The method printDetail() is undefined for the type Teacher'
+4 Jul 2018 15:08:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@77a22b54
+4 Jul 2018 15:08:03 GMT:  Kind = ERROR
+4 Jul 2018 15:08:03 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java LineNo = 24 ColNo = 8 Msg = 'The method printDetail() is undefined for the type Teacher'
+4 Jul 2018 15:12:34 GMT: diagnostics = javax.tools.DiagnosticCollector@fed132a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@13de57d6
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:12:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@6bbf9c08' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:12:34 GMT: Compiler call returned
+4 Jul 2018 15:12:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@60d97f0c
+4 Jul 2018 15:12:34 GMT:  Kind = ERROR
+4 Jul 2018 15:12:34 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java LineNo = 13 ColNo = 10 Msg = 'Syntax error, insert ";" to complete FieldDeclaration'
+4 Jul 2018 15:12:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9c7127
+4 Jul 2018 15:12:34 GMT:  Kind = ERROR
+4 Jul 2018 15:12:34 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java LineNo = 13 ColNo = 17 Msg = 'Return type for the method is missing'
+4 Jul 2018 15:12:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a1f2e1d
+4 Jul 2018 15:12:34 GMT:  Kind = ERROR
+4 Jul 2018 15:12:34 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java LineNo = 13 ColNo = 17 Msg = 'Return type for the method is missing'
+4 Jul 2018 15:12:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3643d43c
+4 Jul 2018 15:12:34 GMT:  Kind = ERROR
+4 Jul 2018 15:12:34 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java LineNo = 22 ColNo = 8 Msg = 'The method printDetail() is undefined for the type Teacher'
+4 Jul 2018 15:12:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d49ece7
+4 Jul 2018 15:12:34 GMT:  Kind = ERROR
+4 Jul 2018 15:12:34 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java LineNo = 23 ColNo = 8 Msg = 'The method printDetail() is undefined for the type Teacher'
+4 Jul 2018 15:12:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7ebfb320
+4 Jul 2018 15:12:34 GMT:  Kind = ERROR
+4 Jul 2018 15:12:34 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java LineNo = 24 ColNo = 8 Msg = 'The method printDetail() is undefined for the type Teacher'
+4 Jul 2018 15:12:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1db3052c
+4 Jul 2018 15:12:34 GMT:  Kind = ERROR
+4 Jul 2018 15:12:34 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java LineNo = 13 ColNo = 3 Msg = 'Public cannot be resolved to a type'
+4 Jul 2018 15:12:43 GMT: diagnostics = javax.tools.DiagnosticCollector@ef5cfe5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@35d5c958
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:12:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@511fe773' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:12:43 GMT: Compiler call returned
+4 Jul 2018 15:12:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@68e455ac
+4 Jul 2018 15:12:43 GMT:  Kind = ERROR
+4 Jul 2018 15:12:43 GMT: Name = C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java LineNo = 13 ColNo = 3 Msg = 'Syntax error on token "Public", public expected'
+4 Jul 2018 15:13:05 GMT: diagnostics = javax.tools.DiagnosticCollector@5d4cb16a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6e22c32a
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:13:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c13ea25' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:13:05 GMT: Compiler call returned
+4 Jul 2018 15:13:31 GMT: diagnostics = javax.tools.DiagnosticCollector@17a66bb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6d5afb00
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:13:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@74c98057' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:13:31 GMT: Compiler call returned
+4 Jul 2018 15:14:46 GMT: diagnostics = javax.tools.DiagnosticCollector@65229782
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5897be66
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:14:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@76544d50' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:14:46 GMT: Compiler call returned
+4 Jul 2018 15:15:08 GMT: diagnostics = javax.tools.DiagnosticCollector@36cb97c5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@66530a6e
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:15:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ea53e7d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:15:08 GMT: Compiler call returned
+4 Jul 2018 15:16:40 GMT: diagnostics = javax.tools.DiagnosticCollector@551fe690
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@527a51c4
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:16:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@776f3acd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:16:41 GMT: Compiler call returned
+4 Jul 2018 15:17:43 GMT: diagnostics = javax.tools.DiagnosticCollector@37a9cc0f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3127e07d
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:17:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1275c1b9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:17:43 GMT: Compiler call returned
+4 Jul 2018 15:17:49 GMT: diagnostics = javax.tools.DiagnosticCollector@13c6273c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@36edfbda
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:17:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4a635d09' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:17:49 GMT: Compiler call returned
+4 Jul 2018 15:18:10 GMT: diagnostics = javax.tools.DiagnosticCollector@3b61a998
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@50474de3
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:18:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4a29334a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:18:10 GMT: Compiler call returned
+4 Jul 2018 15:18:28 GMT: diagnostics = javax.tools.DiagnosticCollector@26256b94
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@327dedb9
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:18:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@71fb0d9f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:18:28 GMT: Compiler call returned
+4 Jul 2018 15:19:45 GMT: diagnostics = javax.tools.DiagnosticCollector@5e0e9fb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5e67815f
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java]
+4 Jul 2018 15:19:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3556e45' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:19:45 GMT: Compiler call returned
+4 Jul 2018 15:20:10 GMT: diagnostics = javax.tools.DiagnosticCollector@5f83c72f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5ee23c23
+fileObjects = [C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Course.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\Teacher.java, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4\TestTeacher.java]
+4 Jul 2018 15:20:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@65acb9d4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\Untitled Folder\Task 4;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+4 Jul 2018 15:20:10 GMT: Compiler call returned

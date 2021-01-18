@@ -1,0 +1,8 @@
+2 Jul 2018 19:20:05 GMT: Log 'EclipseCompiler.txt' opened: 2 Jul 2018 19:20:05 GMT with name C:\Users\user\Desktop\Lab06\EclipseCompiler.txt
+2 Jul 2018 19:23:37 GMT: Log 'EclipseCompiler.txt' opened: 2 Jul 2018 19:23:37 GMT with name C:\Users\user\Desktop\Lab06\EclipseCompiler.txt
+2 Jul 2018 19:23:58 GMT: diagnostics = javax.tools.DiagnosticCollector@64180aec
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@720d68cf
+fileObjects = [C:\Users\user\Desktop\Lab06\Quiz1.java, C:\Users\user\Desktop\Lab06\design.java]
+2 Jul 2018 19:23:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2d013a22' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+2 Jul 2018 19:23:59 GMT: Compiler call returned
+2 Jul 2018 20:45:12 GMT: Log 'EclipseCompiler.txt' opened: 2 Jul 2018 20:45:12 GMT with name C:\Users\user\Desktop\Lab06\EclipseCompiler.txt

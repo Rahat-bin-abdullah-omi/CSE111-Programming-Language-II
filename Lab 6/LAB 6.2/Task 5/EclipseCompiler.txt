@@ -1,0 +1,6 @@
+6 Jul 2018 14:30:18 GMT: Log 'EclipseCompiler.txt' opened: 6 Jul 2018 14:30:18 GMT with name C:\Users\user\Desktop\Lab06\LAB 6.2\Task 5\EclipseCompiler.txt
+6 Jul 2018 14:30:34 GMT: diagnostics = javax.tools.DiagnosticCollector@7cce9931
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7d16cf4e
+fileObjects = [C:\Users\user\Desktop\Lab06\LAB 6.2\Task 5\Account.java, C:\Users\user\Desktop\Lab06\LAB 6.2\Task 5\AccountTester.java]
+6 Jul 2018 14:30:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@39c7193d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\user\Desktop\Lab06\LAB 6.2\Task 5;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+6 Jul 2018 14:30:34 GMT: Compiler call returned
